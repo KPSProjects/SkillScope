@@ -1,0 +1,26 @@
+GOV DATASET SUMMARY
+
+Dataset used:
+gov_cleaned_standardised.csv
+
+Main GOV analysis completed:
+1. Monthly job counts
+2. Category counts
+3. Monthly counts for top 5 categories
+
+Key findings:
+- The dataset covers 5 months only: 2023-07 to 2023-11
+- The monthly distribution is very uneven
+- Most records are concentrated in October 2023 and November 2023
+- Healthcare & Nursing Jobs is the largest category
+- Other major categories include Other/General Jobs, Teaching Jobs, Logistics & Warehouse Jobs, and Social Work Jobs
+
+Limitations:
+- The time range is too short for strong forecasting
+- Early months appear incomplete or much smaller than later months
+- The dataset is more useful for exploratory descriptive analysis than robust forecasting
+
+Project use:
+- GOV will be used as supporting labour-market context
+- GOV will not be treated as the main skill extraction dataset
+- GOV analysis is now paused so the project can move back to the skill-focused pipeline
