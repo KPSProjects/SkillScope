@@ -27,11 +27,11 @@ MODEL_NAME = "distilbert-base-uncased"
 # labels used in SkillSpan
 LABEL_LIST = ["O", "B", "I"]
 
-# convert labels into numbers
+# change labels into numbers
 LABEL2ID = {label: i for i, label in enumerate(LABEL_LIST)}
 ID2LABEL = {i: label for label, i in LABEL2ID.items()}
 
-# evaluation metric
+# metric for evaluation
 seqeval = evaluate.load("seqeval")
 
 
@@ -41,7 +41,7 @@ def load_skillspan_file(path):
 
 
 def safe_parse_list(value):
-    # make sure tokens and tags are always lists
+    # make sure tokens and tags always stay as lists
     if isinstance(value, list):
         return value
 
@@ -76,7 +76,7 @@ def build_hf_dataset_from_rows(df):
         tokens = safe_parse_list(row["tokens"])
         tags = safe_parse_list(row["tags_skill"])
 
-        # only keep rows where token count matches label count
+        # only keep rows where token count matches tag count
         if len(tokens) == len(tags) and len(tokens) > 0:
             rows.append(
                 {
@@ -110,7 +110,7 @@ def tokenize_and_align_labels(examples, tokenizer):
             if word_idx is None:
                 label_ids.append(-100)
 
-            # first token of the word keeps the real label
+            # first token of a word keeps the correct label
             elif word_idx != previous_word_idx:
                 label_ids.append(labels[word_idx])
 
@@ -187,11 +187,11 @@ def prepare_row_level_datasets():
 
 
 def run_distilbert_row_level_training():
-    # start timer
+    # start full timer
     overall_start = time.time()
     print("Starting row-level DistilBERT training for 5 epochs...")
 
-    # prepare data
+    # prepare the data
     prep_start = time.time()
     tokenized_datasets, tokenizer = prepare_row_level_datasets()
     prep_end = time.time()
@@ -201,15 +201,24 @@ def run_distilbert_row_level_training():
     print(f"Dataset preparation time: {prep_end - prep_start:.2f} seconds")
 
     # load model
+    model_load_start = time.time()
     model = AutoModelForTokenClassification.from_pretrained(
         MODEL_NAME,
         num_labels=len(LABEL_LIST),
         id2label=ID2LABEL,
         label2id=LABEL2ID,
     )
+    model_load_end = time.time()
 
-    # helps with batching and padding
+    print(f"Model loading time: {model_load_end - model_load_start:.2f} seconds")
+
+    # helps with padding during training
     data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
+
+    # rough training estimate based on previous run
+    print("\n--- ROUGH TRAINING ESTIMATE ---")
+    print("Previous 3 epoch row-level run took about 30 minutes.")
+    print("This 5 epoch run may take around 45 to 55 minutes depending on your machine.")
 
     # training settings
     training_args = TrainingArguments(
@@ -269,6 +278,7 @@ def run_distilbert_row_level_training():
         file.write("ROW-LEVEL DISTILBERT RESULTS 5 EPOCHS\n")
         file.write("====================================\n\n")
         file.write(f"Dataset preparation time: {prep_end - prep_start:.2f} seconds\n")
+        file.write(f"Model loading time: {model_load_end - model_load_start:.2f} seconds\n")
         file.write(f"Training time: {train_end - train_start:.2f} seconds\n")
         file.write(f"DEV evaluation time: {dev_end - dev_start:.2f} seconds\n")
         file.write(f"TEST evaluation time: {test_end - test_start:.2f} seconds\n\n")
@@ -277,7 +287,7 @@ def run_distilbert_row_level_training():
         file.write("\n\nTEST RESULTS\n")
         file.write(str(test_results))
 
-    # end timer
+    # end full timer
     overall_end = time.time()
     print(f"\nTotal elapsed time: {overall_end - overall_start:.2f} seconds")
     print(f"Saved results to: {DISTILBERT_ROW_5EPOCH_RESULTS_PATH}")

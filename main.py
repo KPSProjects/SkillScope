@@ -1,8 +1,8 @@
-from src.distilbert.train_model_row_level_5epoch import run_distilbert_row_level_training
+from src.weak_labelling.build_weak_labels_v3 import run_build_weak_labels_v3
 
 
 def main():
-    run_distilbert_row_level_training()
+    run_build_weak_labels_v3()
 
 
 if __name__ == "__main__":
