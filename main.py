@@ -1,8 +1,8 @@
-from src.weak_labelling.build_weak_labels_v3 import run_build_weak_labels_v3
+from src.evaluation.create_baseline_v3_top_skills_chart import run_baseline_v3_top_skills_chart
 
 
 def main():
-    run_build_weak_labels_v3()
+    run_baseline_v3_top_skills_chart()
 
 
 if __name__ == "__main__":

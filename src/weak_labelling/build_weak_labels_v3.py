@@ -263,7 +263,7 @@ def choose_best_text(row):
     return str(description), "job_description"
 
 
-def build_weak_labelled_rows(df, esco_phrases, max_rows=500):
+def build_weak_labelled_rows(df, esco_phrases, max_rows=3000):
     output_rows = []
     row_id = 1
 
@@ -383,7 +383,7 @@ def run_build_weak_labels_v3():
     weak_rows = build_weak_labelled_rows(
         df=reed_df,
         esco_phrases=esco_phrases,
-        max_rows=500,
+        max_rows=3000,
     )
     weak_end = time.time()
 
