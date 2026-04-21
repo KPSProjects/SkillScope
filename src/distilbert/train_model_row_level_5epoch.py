@@ -31,7 +31,7 @@ LABEL_LIST = ["O", "B", "I"]
 LABEL2ID = {label: i for i, label in enumerate(LABEL_LIST)}
 ID2LABEL = {i: label for label, i in LABEL2ID.items()}
 
-# metric for evaluation
+# metric for evaluation_baseline
 seqeval = evaluate.load("seqeval")
 
 

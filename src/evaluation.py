@@ -224,7 +224,7 @@ def evaluate_documents(doc_df: pd.DataFrame, esco_phrases: set[str], max_docs: i
 
 def build_summary_text(results: list[dict], evaluated_docs: int) -> str:
     """
-    Builds a readable summary text for the evaluation.
+    Builds a readable summary text for the evaluation_baseline.
     """
     avg_precision = sum(r["precision"] for r in results) / len(results) if results else 0.0
     avg_recall = sum(r["recall"] for r in results) / len(results) if results else 0.0
@@ -243,7 +243,7 @@ def build_summary_text(results: list[dict], evaluated_docs: int) -> str:
     lines.append(f"Average precision: {avg_precision:.4f}")
     lines.append(f"Average recall: {avg_recall:.4f}")
     lines.append("")
-    lines.append("Note: this is an approximate exact-string-overlap evaluation.")
+    lines.append("Note: this is an approximate exact-string-overlap evaluation_baseline.")
     lines.append("SkillSpan gold spans and ESCO dictionary phrases may express the same skill differently.")
     lines.append("")
 
@@ -278,9 +278,9 @@ def build_examples_text(results: list[dict], max_examples: int = 10) -> str:
 
 def run_baseline_evaluation():
     """
-    Main function for the first small-scale baseline evaluation.
+    Main function for the first small-scale baseline evaluation_baseline.
     """
-    print("Starting baseline vs SkillSpan evaluation...")
+    print("Starting baseline vs SkillSpan evaluation_baseline...")
 
     skillspan_test_df = load_skillspan_file(SKILLSPAN_TEST_PATH)
     skillspan_test_docs = combine_rows_by_idx(skillspan_test_df)

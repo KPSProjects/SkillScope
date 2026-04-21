@@ -56,15 +56,15 @@ SKILLSPAN_TRAIN_PATH = RAW_DIR / "skillspan" / "train.json"
 SKILLSPAN_DEV_PATH = RAW_DIR / "skillspan" / "dev.json"
 SKILLSPAN_TEST_PATH = RAW_DIR / "skillspan" / "test.json"
 
-SKILLSPAN_PREVIEW_PATH = PROCESSED_DIR / "evaluation" / "skillspan_preview.txt"
-BASELINE_EVAL_SUMMARY_PATH = PROCESSED_DIR / "evaluation" / "baseline_eval_summary.txt"
-BASELINE_EVAL_EXAMPLES_PATH = PROCESSED_DIR / "evaluation" / "baseline_eval_examples.txt"
+SKILLSPAN_PREVIEW_PATH = PROCESSED_DIR / "evaluation_baseline" / "skillspan_preview.txt"
+BASELINE_EVAL_SUMMARY_PATH = PROCESSED_DIR / "evaluation_baseline" / "baseline_eval_summary.txt"
+BASELINE_EVAL_EXAMPLES_PATH = PROCESSED_DIR / "evaluation_baseline" / "baseline_eval_examples.txt"
 DISTILBERT_PREP_PREVIEW_PATH = PROCESSED_DIR / "distilbert" / "distilbert_prep_preview.txt"
 DISTILBERT_RESULTS_PATH = PROCESSED_DIR / "distilbert" / "distilbert_results.txt"
 DISTILBERT_MODEL_DIR = PROCESSED_DIR / "distilbert" / "model_output"
 DISTILBERT_ROW_RESULTS_PATH = PROCESSED_DIR / "distilbert" / "distilbert_row_level_results.txt"
 DISTILBERT_ROW_MODEL_DIR = PROCESSED_DIR / "distilbert" / "row_level_model_output"
-MODEL_COMPARISON_SUMMARY_PATH = PROCESSED_DIR / "evaluation" / "model_comparison_summary.txt"
+MODEL_COMPARISON_SUMMARY_PATH = PROCESSED_DIR / "evaluation_baseline" / "model_comparison_summary.txt"
 DISTILBERT_ESCO_MAPPING_PATH = PROCESSED_DIR / "distilbert" / "distilbert_esco_mapping_preview.txt"
 DISTILBERT_PIPELINE_DEMO_PATH = PROCESSED_DIR / "distilbert" / "distilbert_pipeline_demo.txt"
 DISTILBERT_DEBUG_PREDICTIONS_PATH = PROCESSED_DIR / "distilbert" / "distilbert_debug_predictions.txt"
@@ -96,3 +96,22 @@ REED_LARGE_MATCHED_SKILLS_V3_PATH = INTERIM_DIR / "matched_skills" / "reed_uk" /
 REED_LARGE_SKILL_FREQUENCY_V3_PATH = INTERIM_DIR / "aggregated" / "reed_uk" / "reed_large_skill_frequency_v3.csv"
 REED_LARGE_SKILL_FREQUENCY_FILTERED_V3_PATH = INTERIM_DIR / "aggregated" / "reed_uk" / "reed_large_skill_frequency_filtered_v3.csv"
 REED_LARGE_TOP_SKILLS_CHART_V3_PATH = PROCESSED_DIR / "reed_uk" / "reed_large_top_skills_chart_v3.png"
+
+# spaCy output paths
+SPACY_DIR = PROCESSED_DIR / "spacy"
+SPACY_MODEL_DIR = SPACY_DIR / "model_output"
+
+SPACY_TRAIN_DATA_PATH = SPACY_DIR / "spacy_train_data.json"
+SPACY_DEV_DATA_PATH = SPACY_DIR / "spacy_dev_data.json"
+SPACY_TEST_DATA_PATH = SPACY_DIR / "spacy_test_data.json"
+
+SPACY_TRAINING_SUMMARY_PATH = SPACY_DIR / "spacy_training_summary.txt"
+SPACY_PIPELINE_DEMO_PATH = SPACY_DIR / "spacy_pipeline_demo.txt"
+
+# spaCy evaluation paths
+SPACY_EVALUATION_DIR = PROCESSED_DIR / "evaluation" / "spacy"
+
+SPACY_EVALUATION_RESULTS_PATH = SPACY_EVALUATION_DIR / "spacy_evaluation_results.txt"
+SPACY_ROW_LEVEL_RESULTS_PATH = SPACY_EVALUATION_DIR / "spacy_row_level_results.txt"
+SPACY_VS_DISTILBERT_SUMMARY_PATH = SPACY_EVALUATION_DIR / "spacy_vs_distilbert_summary.txt"
+SPACY_VS_BASELINE_SUMMARY_PATH = SPACY_EVALUATION_DIR / "spacy_vs_baseline_summary.txt"

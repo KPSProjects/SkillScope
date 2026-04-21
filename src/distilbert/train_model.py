@@ -308,7 +308,7 @@ def run_distilbert_training():
     dev_results = trainer.evaluate(tokenized_datasets["dev"])
     dev_end = time.time()
     print(dev_results)
-    print(f"DEV evaluation time: {dev_end - dev_start:.2f} seconds")
+    print(f"DEV evaluation_baseline time: {dev_end - dev_start:.2f} seconds")
 
     # evaluate on test set
     print("\n--- TEST EVALUATION ---")
@@ -316,7 +316,7 @@ def run_distilbert_training():
     test_results = trainer.evaluate(tokenized_datasets["test"])
     test_end = time.time()
     print(test_results)
-    print(f"TEST evaluation time: {test_end - test_start:.2f} seconds")
+    print(f"TEST evaluation_baseline time: {test_end - test_start:.2f} seconds")
 
     # save the results to a text file
     DISTILBERT_RESULTS_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -325,8 +325,8 @@ def run_distilbert_training():
         file.write("=====================================\n\n")
         file.write(f"Dataset preparation time: {prep_end - prep_start:.2f} seconds\n")
         file.write(f"Training time: {train_end - train_start:.2f} seconds\n")
-        file.write(f"DEV evaluation time: {dev_end - dev_start:.2f} seconds\n")
-        file.write(f"TEST evaluation time: {test_end - test_start:.2f} seconds\n\n")
+        file.write(f"DEV evaluation_baseline time: {dev_end - dev_start:.2f} seconds\n")
+        file.write(f"TEST evaluation_baseline time: {test_end - test_start:.2f} seconds\n\n")
         file.write("DEV RESULTS\n")
         file.write(str(dev_results))
         file.write("\n\nTEST RESULTS\n")
