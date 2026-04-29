@@ -1,0 +1,19 @@
+SPACY SKILL NER EVALUATION RESULTS
+=================================
+
+Test rows: 3569
+Total gold skill spans: 1090
+Total predicted skill spans: 646
+Total exact span matches: 252
+
+Row-level binary metrics
+------------------------
+Precision: 0.7043
+Recall: 0.5883
+F1: 0.6411
+
+Span-level exact-match metrics
+------------------------------
+Precision: 0.3901
+Recall: 0.2312
+F1: 0.2903

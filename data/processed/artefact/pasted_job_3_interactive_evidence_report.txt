@@ -1,0 +1,260 @@
+SKILL MATCH EVIDENCE REPORT
+===========================
+
+JOB SKILL EVIDENCE
+------------------
+
+Skill: health and safety
+Category: compliance
+Weight: 2
+Requirement type: required
+Confidence: 1.0
+Matched alias: safety
+Evidence: Ensure all food hygiene and safety standards are met
+
+Skill: work efficiently
+Category: devops
+Weight: 1
+Requirement type: required
+Confidence: 1.0
+Matched alias: work efficiently
+Evidence: Work efficiently as part of a close-knit brigade
+
+
+CV SKILL EVIDENCE
+-----------------
+
+Skill: algorithms
+Category: general
+Weight: 1
+Matched alias: algorithmic
+Evidence: reaches solutions result / value shows algorithmic problem solving careful modelling and t
+
+Skill: apply information security policies
+Category: devops
+Weight: 1
+Matched alias: data security
+Evidence: r systems fundamentals network concepts data security digital forensics professionalism ethic
+
+Skill: artificial intelligence
+Category: data_ai
+Weight: 2
+Matched alias: artificial intelligence
+Evidence: oject research methods machine learning artificial intelligence for problem solving information risk se
+
+Skill: communication
+Category: general_professional
+Weight: 1
+Matched alias: communicate clearly
+Evidence: ndependently and escalate when required communicate clearly with customers and internal teamsd inte
+
+Skill: compliance
+Category: compliance
+Weight: 2
+Matched alias: compliance
+Evidence: validate solution correctness and rule compliance produced clear documentation describing
+
+Skill: computer science
+Category: education
+Weight: 1
+Matched alias: computing science
+Evidence: m/kpsprojects final-year honours year 4 computing science student at robert gordon university rgu
+
+Skill: continuous learning
+Category: general_professional
+Weight: 1
+Matched alias: training
+Evidence: it can be rerun consistently data prep training evaluation final report result / value
+
+Skill: css
+Category: software_frontend
+Weight: 2
+Matched alias: css
+Evidence: e skills languages python sql java html css data/ml pandas numpy scikit-learn nlp t
+
+Skill: customer service
+Category: general_professional
+Weight: 2
+Matched alias: customers
+Evidence: when required communicate clearly with customers and internal teamsd internal teams to s
+
+Skill: data cleaning
+Category: data
+Weight: 2
+Matched alias: data cleaning
+Evidence: ols git github jupyter windows concepts data cleaning/standardisation evaluation metrics prec
+
+Skill: data engineering
+Category: data
+Weight: 2
+Matched alias: data pipeline
+Evidence: ects skill demand tracker + forecast uk data pipeline reporting purpose build an end-to-end w
+
+Skill: data visualisation
+Category: data
+Weight: 2
+Matched alias: dashboarding
+Evidence: g / transformers visualisation plotly / dashboarding databases sqlite mysql mongodb tools gi
+
+Skill: database
+Category: database
+Weight: 2
+Matched alias: database
+Evidence: ollege nescol aberdeen relevant modules database design development professional practic
+
+Skill: database management systems
+Category: database
+Weight: 2
+Matched alias: sql
+Evidence: problem solving a search data handling sql + validation and security-aware develop
+
+Skill: documentation
+Category: business_support
+Weight: 2
+Matched alias: documentation
+Evidence: versity coursework known for structured documentation clean workflows and producing repeatabl
+
+Skill: driving
+Category: logistics
+Weight: 2
+Matched alias: delivery driver
+Evidence: ucibility professional experience tesco delivery driver 2024 present maintain accurate delivery
+
+Skill: git
+Category: tools
+Weight: 2
+Matched alias: git
+Evidence: ng databases sqlite mysql mongodb tools git github jupyter windows concepts data cl
+
+Skill: github
+Category: tools
+Weight: 1
+Matched alias: github
+Evidence: edin com/in/kamil-szynklewski-917786297 github com/kpsprojects final-year honours year
+
+Skill: html
+Category: software_frontend
+Weight: 2
+Matched alias: html
+Evidence: r role skills languages python sql java html css data/ml pandas numpy scikit-learn n
+
+Skill: information security
+Category: security
+Weight: 2
+Matched alias: security operations
+Evidence: computer interaction data visualisation security operations incident management natural language pr
+
+Skill: java
+Category: software_language
+Weight: 3
+Matched alias: java
+Evidence: eloper role skills languages python sql java html css data/ml pandas numpy scikit-le
+
+Skill: machine learning
+Category: data_ai
+Weight: 2
+Matched alias: machine learning
+Evidence: ciplinary team project research methods machine learning artificial intelligence for problem sol
+
+Skill: mentoring
+Category: general_professional
+Weight: 1
+Matched alias: trained new staff
+Evidence: reliable completion of responsibilities trained new staff on standard operating procedures and qu
+
+Skill: mongodb
+Category: database
+Weight: 2
+Matched alias: mongodb
+Evidence: y / dashboarding databases sqlite mysql mongodb tools git github jupyter windows concep
+
+Skill: mysql
+Category: database
+Weight: 3
+Matched alias: mysql
+Evidence: plotly / dashboarding databases sqlite mysql mongodb tools git github jupyter window
+
+Skill: natural language processing
+Category: data_ai
+Weight: 2
+Matched alias: natural language processing
+Evidence: security operations incident management natural language processing capstone project bsc hons computing sci
+
+Skill: problem solving
+Category: general_professional
+Weight: 1
+Matched alias: problem solving
+Evidence: on strong foundations in algorithms and problem solving a search data handling sql + validation
+
+Skill: procedures
+Category: business_support
+Weight: 1
+Matched alias: procedures
+Evidence: senior chef 2018 2024 worked to strict procedures in a high-pressure environment ensuring
+
+Skill: project management
+Category: general
+Weight: 1
+Matched alias: project management
+Evidence: ment software security malware analysis project management pirate studies hnd scqf level 8 softwar
+
+Skill: python
+Category: software_language
+Weight: 3
+Matched alias: python
+Evidence: nes dashboards and ml/nlp prototypes in python strong foundations in algorithms and pr
+
+Skill: reporting
+Category: business_support
+Weight: 2
+Matched alias: reporting
+Evidence: and tracker + forecast uk data pipeline reporting purpose build an end-to-end workflow th
+
+Skill: secure coding
+Category: security
+Weight: 2
+Matched alias: secure development
+Evidence: precision/recall/f1 algorithms a search secure development mindset documentation reproducibility p
+
+Skill: security engineering
+Category: security
+Weight: 2
+Matched alias: security management
+Evidence: ce for problem solving information risk security management software security malware analysis proj
+
+Skill: software development
+Category: custom
+Weight: 2
+Matched alias: software development
+Evidence: agement pirate studies hnd scqf level 8 software development 08/2023 05/2024 north east scotland col
+
+Skill: sql
+Category: database
+Weight: 3
+Matched alias: sql
+Evidence: problem solving a search data handling sql + validation and security-aware develop
+
+Skill: sqlite
+Category: database
+Weight: 2
+Matched alias: sqlite
+Evidence: isation plotly / dashboarding databases sqlite mysql mongodb tools git github jupyter
+
+Skill: stakeholder communication
+Category: business_support
+Weight: 2
+Matched alias: stakeholder
+Evidence: produced summary insights suitable for stakeholder-style reporting focusing on clarity and
+
+Skill: statistics
+Category: general
+Weight: 1
+Matched alias: big data
+Evidence: ollege nescol aberdeen relevant modules big data databases intro computer systems fundam
+
+Skill: troubleshoot
+Category: general
+Weight: 1
+Matched alias: troubleshooting
+Evidence: ics professionalism ethics team working troubleshooting computing problem
+

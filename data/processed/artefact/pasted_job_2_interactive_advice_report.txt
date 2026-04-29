@@ -1,0 +1,78 @@
+CV TO JOB MATCH ADVICE REPORT
+=============================
+
+Job file: pasted_job_2.txt
+Match score: 57.14%
+Job skill count: 14
+CV skill count: 39
+Matched skills: 7
+Missing skills: 7
+Extra skills: 32
+Matched weight total: 16.0
+Total job weight: 28.0
+
+Matched skills
+--------------
+- continuous learning
+- customer service
+- database management systems
+- java
+- python
+- software development
+- sql
+
+Missing skills
+--------------
+- acoustics
+- csharp
+- ict project management methodologies
+- javascript
+- programming
+- teamwork
+- think innovatively
+
+Extra CV skills
+---------------
+- algorithms
+- apply information security policies
+- artificial intelligence
+- communication
+- compliance
+- computer science
+- css
+- data cleaning
+- data engineering
+- data visualisation
+- database
+- documentation
+- driving
+- git
+- github
+- html
+- information security
+- machine learning
+- mentoring
+- mongodb
+- mysql
+- natural language processing
+- problem solving
+- procedures
+- project management
+- reporting
+- secure coding
+- security engineering
+- sqlite
+- stakeholder communication
+- statistics
+- troubleshoot
+
+Advice
+------
+- pasted_job_2.txt appears to be a moderate match. The CV has relevant overlap, but some important job requirements are still missing.
+- The strongest areas of alignment are: continuous learning, customer service, database management systems, java, python, software development, sql.
+- The main missing or weakly evidenced areas are: acoustics, csharp, ict project management methodologies, javascript, programming, teamwork, think innovatively.
+- These should be checked manually against the CV. Some may be genuinely missing, while others may be present but not written clearly enough for the matcher to detect.
+- If the candidate has experience in these areas, the CV should be tailored by adding clearer evidence in the skills section, project descriptions, or work experience bullet points.
+- The CV also includes additional skills not directly extracted from this advert, such as: algorithms, apply information security policies, artificial intelligence, communication, compliance, computer science, css.
+- These additional skills may still be valuable, but the CV should prioritise the skills that are directly requested by the advert.
+- Recommended action: tailor the CV before applying by adding stronger wording for the missing skills that the candidate genuinely has.

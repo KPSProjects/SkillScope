@@ -1,0 +1,45 @@
+WEAK LABELLED REED LARGE PREVIEW
+================================
+
+Rows saved: 2740
+
+Row 1
+idx: 1
+source: reed_large_weak
+token count: 392
+skill label count: 392
+tokens sample: ['Apply', 'now', 'New', 'opportunity', 'not', 'to', 'be', 'missed', '!', 'Haulfryn', 'Group', 'has', 'a', 'fantastic', 'opportunity', 'for', 'a', 'Commis', 'Chef', 'to', 'join', 'a', 'growing', 'team', 'at', 'our', 'friendly', 'holiday', 'resort', ',', 'Finlake', 'Holiday', 'Resort', '.', 'In', 'return', ',', 'we', 'offer', 'our', 'Commis', 'Chef', 'a', 'competitive', 'salary', 'depending', 'on', 'experience', 'plus', 'excellent']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 2
+idx: 2
+source: reed_large_weak
+token count: 295
+skill label count: 295
+tokens sample: ['Apply', 'now', 'This', 'role', 'requires', 'an', 'experienced', 'secretary', 'with', 'at', 'least', '2', 'years', 'secretarial', 'experience', '.', 'Legal', 'experience', 'is', 'an', 'advantage', 'but', 'not', 'essential', '.', 'Possessing', 'excellent', 'IT', ',', 'administration', ',', 'diary', 'management', 'and', 'exceptional', 'organisational', 'skills', '.', 'The', 'candidate', 'must', 'be', 'adaptable', 'and', 'flexible', 'together', 'with', 'a', 'professional', ',']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 3
+idx: 3
+source: reed_large_weak
+token count: 240
+skill label count: 240
+tokens sample: ['Apply', 'now', 'Job', 'Title', ':', 'Warehouse', 'personLocation', ':', 'SohamRate', 'of', 'Pay', ':', '£', '16', ',', '000', 'to', '£', '17', ',', '000', 'per', 'annumThe', 'Role', ':', 'My', 'client', 'has', 'a', 'warehouse', 'in', 'Soham', '.', 'The', 'supervisor', 'is', 'a', 'relaxed', ',', 'highly', 'skilled', 'warehouse', 'person', 'and', 'has', 'worked', 'his', 'way', 'through', 'the']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 4
+idx: 4
+source: reed_large_weak
+token count: 122
+skill label count: 122
+tokens sample: ['Apply', 'now', 'Castles', 'Solicitors', 'are', 'looking', 'for', 'a', 'part', '/', 'full', 'time', 'Legal', 'Secretary', '/', 'Admin', 'Assistant', 'to', 'join', 'their', 'team', 'in', 'Hurstpierpoint', ',', 'working', 'across', 'multiple', 'departments', '(', 'flexible', 'working', 'hours', 'available', 'ideally', '20', '+', 'hours', 'a', 'week', ')', 'Essential', 'skills', ':', 'Microsoft', 'and', 'excel', 'competentAbility', 'to', 'communicate', 'with']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I']
+
+Row 5
+idx: 5
+source: reed_large_weak
+token count: 583
+skill label count: 583
+tokens sample: ['Apply', 'now', 'International', 'Pharmaceutical', 'Manufacturer', 'requires', 'a', 'Category', 'Planner', '.', 'The', 'Planner', 'will', 'be', 'responsible', 'and', 'accountable', 'for', 'supply', 'chain', 'planning', 'activities', 'associated', 'with', 'product', 'supply', 'to', 'market', 'within', 'their', 'allocated', 'product', 'family', 'or', 'families', 'in', 'support', 'the', 'group', 'S', '&', 'OP', 'process', ';', 'demand', 'through', 'to', 'product', 'release', '.']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+

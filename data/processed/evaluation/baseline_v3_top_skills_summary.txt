@@ -1,0 +1,23 @@
+BASELINE V3 TOP SKILLS SUMMARY
+==============================
+
+customer service: 5357
+accounting: 1272
+health and safety in the workplace: 1175
+project commissioning: 1030
+project management: 1027
+database management systems: 609
+statistics: 601
+SQL: 590
+SAP Data Services: 500
+risk management: 422
+financial forecasting: 365
+JavaScript: 329
+quality standards: 304
+business processes: 298
+data protection: 276
+troubleshoot: 249
+employment law: 234
+labour legislation: 231
+food engineering: 219
+construction industry: 213

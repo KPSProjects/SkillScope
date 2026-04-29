@@ -1,0 +1,14 @@
+pandas
+numpy
+openpyxl
+jupyter
+matplotlib
+scikit-learn
+plotly
+transformers
+datasets
+evaluate
+seqeval
+accelerate
+torch
+spacy

@@ -1,0 +1,7 @@
+method,evaluation_setup,precision,recall,f1,notes
+Baseline keyword matcher,SkillSpan token-level,0.4617,0.1334,0.207,"Transparent baseline, very low recall"
+spaCy NER,Row-level binary,0.7043,0.5883,0.6411,Strong row-level detection
+spaCy NER,Exact span-level,0.3901,0.2312,0.2903,Stricter span matching
+DistilBERT,"Initial token classification, 3 epochs",0.1392,0.1494,0.1441,Weak early setup
+DistilBERT,"Row-level token classification, 3 epochs",0.3981,0.4189,0.4082,Large improvement after row-level redesign
+DistilBERT,"Row-level token classification, 5 epochs",0.415,0.4253,0.4201,Best DistilBERT model

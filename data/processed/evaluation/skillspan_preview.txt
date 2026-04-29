@@ -1,0 +1,103 @@
+=== TRAIN PREVIEW ===
+Shape: (4800, 5)
+Columns: ['idx', 'tokens', 'tags_skill', 'tags_knowledge', 'source']
+
+Row 0
+idx: 1
+source: tech
+token count: 7
+skill tag count: 7
+knowledge tag count: 7
+tokens sample: ['Senior', 'QA', 'Engineer', '(', 'm/f/d', ')', '<ORGANIZATION>']
+tags_skill sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O']
+tags_knowledge sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 1
+idx: 1
+source: tech
+token count: 5
+skill tag count: 5
+knowledge tag count: 5
+tokens sample: ['<ADDRESS>', '<ADDRESS>', '<ADDRESS>', '<ADDRESS>', '<LOCATION>']
+tags_skill sample: ['O', 'O', 'O', 'O', 'O']
+tags_knowledge sample: ['O', 'O', 'O', 'O', 'O']
+
+Row 2
+idx: 1
+source: tech
+token count: 3
+skill tag count: 3
+knowledge tag count: 3
+tokens sample: ['Date', 'posted:', '2021-07-14']
+tags_skill sample: ['O', 'O', 'O']
+tags_knowledge sample: ['O', 'O', 'O']
+
+
+=== DEV PREVIEW ===
+Shape: (3174, 5)
+Columns: ['idx', 'tokens', 'tags_skill', 'tags_knowledge', 'source']
+
+Row 0
+idx: 1
+source: tech
+token count: 10
+skill tag count: 10
+knowledge tag count: 10
+tokens sample: ['DevOps', 'Engineer', '(', 'CI', 'CD', 'Cloud', 'Docker', 'Jenkins', ')', '<ORGANIZATION>']
+tags_skill sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+tags_knowledge sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 1
+idx: 1
+source: tech
+token count: 5
+skill tag count: 5
+knowledge tag count: 5
+tokens sample: ['<ADDRESS>', '<ADDRESS>', '<LOCATION>', '-', '<LOCATION>']
+tags_skill sample: ['O', 'O', 'O', 'O', 'O']
+tags_knowledge sample: ['O', 'O', 'O', 'O', 'O']
+
+Row 2
+idx: 1
+source: tech
+token count: 3
+skill tag count: 3
+knowledge tag count: 3
+tokens sample: ['Date', 'posted:', '2021-04-22']
+tags_skill sample: ['O', 'O', 'O']
+tags_knowledge sample: ['O', 'O', 'O']
+
+
+=== TEST PREVIEW ===
+Shape: (3569, 5)
+Columns: ['idx', 'tokens', 'tags_skill', 'tags_knowledge', 'source']
+
+Row 0
+idx: 1
+source: tech
+token count: 8
+skill tag count: 8
+knowledge tag count: 8
+tokens sample: ['Full', 'Stack', 'Software', 'Engineer', '-', 'Java', '/', 'JavaScript']
+tags_skill sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+tags_knowledge sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 1
+idx: 1
+source: tech
+token count: 5
+skill tag count: 5
+knowledge tag count: 5
+tokens sample: ['<ORGANIZATION>', '<ORGANIZATION>', '<ORGANIZATION>', '<ORGANIZATION>', '.']
+tags_skill sample: ['O', 'O', 'O', 'O', 'O']
+tags_knowledge sample: ['O', 'O', 'O', 'O', 'O']
+
+Row 2
+idx: 1
+source: tech
+token count: 5
+skill tag count: 5
+knowledge tag count: 5
+tokens sample: ['<ADDRESS>', '<ADDRESS>', '<LOCATION>', '-', '<LOCATION>']
+tags_skill sample: ['O', 'O', 'O', 'O', 'O']
+tags_knowledge sample: ['O', 'O', 'O', 'O', 'O']

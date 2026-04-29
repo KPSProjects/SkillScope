@@ -1,0 +1,122 @@
+BASELINE VS SKILLSPAN EXAMPLES
+==============================
+
+idx: 1
+source: tech
+gold_count: 11
+predicted_count: 9
+overlap_count: 0
+precision: 0.0000
+recall: 0.0000
+gold_skills: ['achieve organizational goals', 'apply your depth of knowledge and expertise', 'building an innovative culture', 'deliver of a next-generation analytics products', 'developing multithreaded scalable concurrent applications', 'developmental toolsets', 'motivated', 'partner continuously with your many stakeholders', 'solving business problems', 'stay focused on common goals', 'work in large collaborative teams']
+predicted_skills: ['business analysis', 'business initiative', 'creative solutions', 'design', 'financial instruments', 'java', 'javascript', 'pregnancy', 'stay focused']
+overlap_skills: []
+text_sample: Full Stack Software Engineer - Java / JavaScript <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> . <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-03-04 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: <EXPERIENCE> Industry: <INDUSTRY> Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: javascript reactjs java Job description: Job type: Full-time Role: Full Stack Developer Technologies javascript reactjs java Job descriptio
+
+idx: 2
+source: tech
+gold_count: 10
+predicted_count: 7
+overlap_count: 0
+precision: 0.0000
+recall: 0.0000
+gold_skills: ['achieve organizational goals', 'apply your depth of knowledge and expertise', 'building an innovative culture', 'development', 'maintenance', 'partner continuously with your many stakeholders', 'software improvement', 'solving business problems', 'stay focused on common goals', 'work in large collaborative teams']
+predicted_skills: ['business analysis', 'creative solutions', 'design', 'java', 'nosql', 'pregnancy', 'stay focused']
+overlap_skills: []
+text_sample: Software Engineer - Java <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> . <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-03-10 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: <EXPERIENCE> Industry: <INDUSTRY> Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: java spring java-ee Job description: Job type: Full-time Technologies java spring java-ee Job description As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZ
+
+idx: 3
+source: tech
+gold_count: 11
+predicted_count: 10
+overlap_count: 0
+precision: 0.0000
+recall: 0.0000
+gold_skills: ['administrate and manage azure resources', 'creating and maintaining build and deployment pipelines for web applications and services', 'enhance and maintain ci infrastructure pipelines and azure paas environments', 'enhance quality through pipelines', 'ensure on-going health and stability of pipelines across multiple environments', 'identify app issues vs configuration/environment issues', 'open for continuous change', 'support developers', 'troubleshoot azure appservice hosted websites and services', 'troubleshooting deployed applications', 'usage of static analysis tools']
+predicted_skills: ['asp.net', 'breaking', 'devops', 'english', 'plan', 'powershell', 'saas', 'sql', 'troubleshoot', 'troubleshooting']
+overlap_skills: []
+text_sample: DevOps Ninja Engineer ( . NET/Azure ) <ORGANIZATION> <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION> Date posted: 2021-03-26 Likes: 1 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: Mid-Level Industry: Financial Technology SaaS wealthtech Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: azure . net asp.net-web-api powershell json.net Job description: Location options: Remote Job type: Full-time Experience level: Mid-Level Role: DevOps Industry: Financ
+
+idx: 4
+source: tech
+gold_count: 9
+predicted_count: 20
+overlap_count: 0
+precision: 0.0000
+recall: 0.0000
+gold_skills: ['achieve organizational goals', 'apply your depth of knowledge and expertise', 'building an innovative culture', 'deliver high quality products', 'partner continuously with your many stakeholders', 'software skills', 'solving business problems', 'stay focused on common goals', 'work in a co-located team']
+predicted_skills: ['banking', 'big data', 'business analysis', 'cloud technologies', 'creative solutions', 'cybersecurity', 'design', 'devops', 'hire people', 'information architecture', 'investment banking', 'java', 'machine learning', 'patterns', 'plan']
+overlap_skills: []
+text_sample: Principle Software Engineer | Java <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-01-21 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: <EXPERIENCE> Industry: Financial Services Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: java reactjs web-services Job description: Job type: Full-time Industry: Financial Services Company size: 10k+ people Company type: 
+
+idx: 5
+source: tech
+gold_count: 4
+predicted_count: 13
+overlap_count: 0
+precision: 0.0000
+recall: 0.0000
+gold_skills: ['build highly efficient accurate and scalable computer vision and machine learning services', 'enjoy working in a team', 'good communicator', 'solve technical challenges independently']
+predicted_skills: ['3d rendering', 'computer graphics', 'computer science', 'computer vision', 'english', 'enjoy working', 'lead', 'machine learning', 'opencv', 'postgresql', 'python', 'reconstruct', 'yoga']
+overlap_skills: []
+text_sample: Python Software Engineer Intern for <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-01-24 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: INTERN Experience level: Student Industry: Artificial Intelligence Computer Graphics Software Development Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: python Job description: Job type: In
+
+idx: 6
+source: tech
+gold_count: 19
+predicted_count: 14
+overlap_count: 2
+precision: 0.1429
+recall: 0.1053
+gold_skills: ['architect solutions', 'code reviews', 'communicate', 'contributions to open source projects', 'deliver and further develop applications', 'deploy apps', 'estimate timelines', 'gather technical requirements', 'investigate', 'leading a team', 'pair programming', 'performed code reviews', 'pm support', 'promote', 'qa']
+predicted_skills: ['agile', 'agile project management', 'cooperate', 'data protection', 'design', 'english', 'gather technical requirements', 'leading a team', 'processing of data', 'project management', 'ruby', 'scrum', 'source', 'sql']
+overlap_skills: ['gather technical requirements', 'leading a team']
+text_sample: Senior Ruby on Rails Developer 12.000-18.000 PLN + VAT ( B2B ) <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION> Date posted: 2021-02-11 Likes: 0 Dislikes: 0 Love: 0 Salary: 144000 - 216000 PLN YEAR Job type: FULL_TIME Experience level: <EXPERIENCE> Industry: <INDUSTRY> Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: e-commerce open-source ruby-on-rails sql heroku Job description: Compensation: zł144k - 216k Location options: Remote Job type: Full-t
+
+idx: 7
+source: tech
+gold_count: 4
+predicted_count: 7
+overlap_count: 0
+precision: 0.0000
+recall: 0.0000
+gold_skills: ['deliver initiatives', 'modernizing and transforming the platform', 'running with a full stack development', 'work on a mix of front-end back-end and cloud technologies']
+predicted_skills: ['cloud technologies', 'etl', 'java', 'plan', 'pregnancy', 'purchase', 'python']
+overlap_skills: []
+text_sample: UI Software Engineer <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-02-13 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: <EXPERIENCE> Industry: Financial Services Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: reactjs cloud python Job description: Job type: Full-time Industry: Financial Services Company size: 10k+ people Company type: Public Technologies
+
+idx: 8
+source: tech
+gold_count: 17
+predicted_count: 16
+overlap_count: 1
+precision: 0.0625
+recall: 0.0588
+gold_skills: ['build and expand our predictive analytics platform', 'build software', 'communicates openly', 'deploy promising solutions to production', 'develop interfaces to erp and pos software providers', 'documentation', 'effective communication', 'help our customers', 'honest', 'identify problems', 'integrate our customers data bases', 'run experiments', 'trustworthy', 'work closely together with our machine learning - and frontend developers', 'work on etl pipelines']
+predicted_skills: ['ansible', 'communication', 'creative solutions', 'cybersecurity', 'data analytics', 'data engineering', 'english', 'etl', 'food service', 'git', 'identify problems', 'machine learning', 'personal development', 'pos', 'postgresql']
+overlap_skills: ['identify problems']
+text_sample: Backend Engineer ( m/f/d ) <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-04-07 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: Mid-Level Industry: <INDUSTRY> Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: django postgresql redis Job description: Job type: Full-time Experience level: Mid-Level Role: Backend Developer Technologies django postgresql redis Job description As part of our 
+
+idx: 9
+source: tech
+gold_count: 5
+predicted_count: 10
+overlap_count: 0
+precision: 0.0000
+recall: 0.0000
+gold_skills: ['building front-end layer', 'design and build front-end / bi layer', 'recommend optimizations', 'troubleshoot issues', 'tune solution / reports for better performance']
+predicted_skills: ['agile', 'be responsible', 'brands', 'data analytics', 'design', 'devops', 'english', 'physical therapy', 'scrum', 'troubleshoot']
+overlap_skills: []
+text_sample: BI Developer <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> We’re looking for a BI Engineer / Developer to join our Data & Analytics team in <LOCATION> . In this role you will be responsible for building front-end layer of our data any analytics solutions . This is your chance to work on exciting global projects with some highly skilled and fun people . Are you looking to take your career to the next level? Responsibilities: Design and build front-end / BI layer of our data an
+
+idx: 10
+source: tech
+gold_count: 26
+predicted_count: 19
+overlap_count: 2
+precision: 0.1053
+recall: 0.0769
+gold_skills: ['ability to persuade others', 'aligning the teams around the technical orientation', 'analytical and problem-solving skills', 'analyzing strategic objectives', 'assertive', 'build and maintain positive and trustworthy relationships', 'communication', 'connects with the teams', 'continuous exploration and innovation', 'creating business enabler art epics', 'defining specific goals', 'definition communication of fit for purpose', 'describing a solution architecture', 'design', 'documentation']
+predicted_skills: ['agile', 'agile software development', 'architecture design', 'banking', 'be responsible', 'brands', 'call', 'communication', 'corporate social responsibility', 'data protection', 'design', 'english', 'gdpr', 'personal development', 'persuade']
+overlap_skills: ['communication', 'design']
+text_sample: System Architect for our new Digital Development Center <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> - Branch <LOCATION> / Digital Development Center <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-04-19 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: Senior Industry: Agile Software Development Financial Technology Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: agile architecture Jo

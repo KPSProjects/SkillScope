@@ -1,0 +1,9 @@
+method,precision,recall,f1
+"Baseline
+Keyword",0.4617,0.1334,0.207
+"spaCy
+Exact Span",0.3901,0.2312,0.2903
+"DistilBERT
+3 Epoch",0.3981,0.4189,0.4082
+"DistilBERT
+5 Epoch",0.415,0.4253,0.4201

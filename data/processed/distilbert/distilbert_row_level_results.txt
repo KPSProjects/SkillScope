@@ -1,0 +1,13 @@
+ROW-LEVEL DISTILBERT TOKEN CLASSIFICATION RESULTS
+===============================================
+
+Dataset preparation time: 3.04 seconds
+Training time: 1785.19 seconds
+DEV evaluation time: 37.02 seconds
+TEST evaluation time: 41.19 seconds
+
+DEV RESULTS
+{'eval_loss': 0.20435813069343567, 'eval_precision': 0.3927670311185871, 'eval_recall': 0.43644859813084114, 'eval_f1': 0.41345728198317844, 'eval_accuracy': 0.9312342380583785, 'eval_runtime': 37.0145, 'eval_samples_per_second': 85.75, 'eval_steps_per_second': 10.726, 'epoch': 3.0}
+
+TEST RESULTS
+{'eval_loss': 0.18563789129257202, 'eval_precision': 0.3980836236933798, 'eval_recall': 0.4188817598533456, 'eval_f1': 0.4082179544439482, 'eval_accuracy': 0.9392983194259402, 'eval_runtime': 41.1873, 'eval_samples_per_second': 86.653, 'eval_steps_per_second': 10.853, 'epoch': 3.0}

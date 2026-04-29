@@ -1,0 +1,35 @@
+WEAK LABELLING COMPARISON SUMMARY
+=================================
+
+Version: Original
+Rows attempted: 3000
+Rows saved: 2740
+Save rate (%): 91.33
+Average B-tags per row: 4.56
+Average labelled tokens per row: 6.69
+Average tokens per row: 335.57
+
+Version: V1
+Rows attempted: 500
+Rows saved: 114
+Save rate (%): 22.80
+Average B-tags per row: 1.88
+Average labelled tokens per row: 4.13
+Average tokens per row: 74.67
+
+Version: V2
+Rows attempted: 500
+Rows saved: 43
+Save rate (%): 8.60
+Average B-tags per row: 2.28
+Average labelled tokens per row: 5.07
+Average tokens per row: 114.44
+
+Version: V3
+Rows attempted: 500
+Rows saved: 13
+Save rate (%): 2.60
+Average B-tags per row: 2.46
+Average labelled tokens per row: 5.23
+Average tokens per row: 86.08
+

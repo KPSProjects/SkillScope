@@ -1,0 +1,38 @@
+INTERACTIVE CV TO JOB MATCH SUMMARY
+===================================
+
+1. pasted_job_2.txt
+   Match score: 57.14%
+   Job skill count: 14
+   CV skill count: 39
+   Matched skills: 7
+   Missing skills: 7
+   Extra skills: 32
+   Matched weight total: 16.0
+   Total job weight: 28.0
+   Top matched: continuous learning, customer service, database management systems, java, python
+   Top missing: acoustics, csharp, ict project management methodologies, javascript, programming
+
+2. pasted_job_1.txt
+   Match score: 25.53%
+   Job skill count: 9
+   CV skill count: 39
+   Matched skills: 4
+   Missing skills: 5
+   Extra skills: 35
+   Matched weight total: 2.4
+   Total job weight: 9.4
+   Top matched: artificial intelligence, communication, continuous learning, python
+   Top missing: analytics, consultancy skills, data wrangling, mathematics, predictive modelling
+
+3. pasted_job_3.txt
+   Match score: 0.0%
+   Job skill count: 2
+   CV skill count: 39
+   Matched skills: 0
+   Missing skills: 2
+   Extra skills: 39
+   Matched weight total: 0.0
+   Total job weight: 3.0
+   Top missing: health and safety, work efficiently
+

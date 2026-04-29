@@ -1,0 +1,2003 @@
+SPACY ROW LEVEL RESULTS
+=======================
+
+Row: 1
+Text preview: Full Stack Software Engineer - Java / JavaScript
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 2
+Text preview: <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 3
+Text preview: <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 4
+Text preview: Date posted: 2021-03-04
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 5
+Text preview: Likes: 0 Dislikes: 0 Love: 0
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 6
+Text preview: Salary: <SALARY>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 7
+Text preview: Job type: FULL_TIME
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 8
+Text preview: Experience level: <EXPERIENCE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 9
+Text preview: Industry: <INDUSTRY>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 10
+Text preview: Company size: <SIZE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 11
+Text preview: Company type: <COMPANY_TYPE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 12
+Text preview: Technologies:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 13
+Text preview: javascript reactjs java
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 14
+Text preview: Job description:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 15
+Text preview: Job type:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 16
+Text preview: Full-time
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 17
+Text preview: Role:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 18
+Text preview: Full Stack Developer
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 19
+Text preview: Technologies
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 20
+Text preview: javascript reactjs java
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 21
+Text preview: Job description
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 22
+Text preview: As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices .
+Gold count: 1
+Predicted count: 1
+Exact matches: 0
+Gold entities: [(128, 153, 'SKILL')]
+Predicted entities: [(128, 198, 'SKILL')]
+
+---
+
+Row: 23
+Text preview: You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to s
+Gold count: 3
+Predicted count: 2
+Exact matches: 2
+Gold entities: [(130, 178, 'SKILL'), (199, 227, 'SKILL'), (22, 65, 'SKILL')]
+Predicted entities: [(130, 178, 'SKILL'), (22, 65, 'SKILL')]
+
+---
+
+Row: 24
+Text preview: We embrace a culture of experimentation and constantly strive for improvement and learning .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 25
+Text preview: You'll work in a collaborative trusting thought-provoking environment-one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 26
+Text preview: This opportunity requires a highly motivated candidate to work in a small and talented software development team in order to deliver of a next-generation analytics products for our institutional clien
+Gold count: 2
+Predicted count: 3
+Exact matches: 2
+Gold entities: [(35, 44, 'SKILL'), (125, 172, 'SKILL')]
+Predicted entities: [(35, 44, 'SKILL'), (125, 172, 'SKILL'), (58, 112, 'SKILL')]
+
+---
+
+Row: 27
+Text preview: The analytics solutions will be a commercial business in its own right so a heavy emphasis on building technology that Client's will pay for and that creates stickiness .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 28
+Text preview: This framework is at an early stage of development which offers an opportunity for an experienced developer to help shape the key components of the product and create commercial opportunities for a ne
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 29
+Text preview: You will partner primarily with fellow technologists from across lines of business Product Development and Quantitative Research to build a modern and comprehensive API allowing clients to easily defi
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 30
+Text preview: * • BS/BA degree or equivalent experience
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 31
+Text preview: * • Advanced knowledge of application data and infrastructure architecture disciplines
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 32
+Text preview: * • Understanding of architecture and design across all systems
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 33
+Text preview: * • Working proficiency in developmental toolsets
+Gold count: 1
+Predicted count: 0
+Exact matches: 0
+Gold entities: [(27, 49, 'SKILL')]
+Predicted entities: []
+
+---
+
+Row: 34
+Text preview: * • Knowledge of industry-wide technology strategies and best practices
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 35
+Text preview: * • Ability to work in large collaborative teams to achieve organizational goals and passionate about building an innovative culture
+Gold count: 3
+Predicted count: 2
+Exact matches: 2
+Gold entities: [(102, 132, 'SKILL'), (15, 48, 'SKILL'), (52, 80, 'SKILL')]
+Predicted entities: [(102, 132, 'SKILL'), (15, 48, 'SKILL')]
+
+---
+
+Row: 36
+Text preview: * • Proficiency in one or more modern programming languages - Java and Javascript preferable
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 37
+Text preview: * • Understanding of software skills such as business analysis development maintenance and software improvement
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 38
+Text preview: * • In-depth HTML5 / JavaScript
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 39
+Text preview: * • Competent with developing multithreaded scalable concurrent applications .
+Gold count: 1
+Predicted count: 1
+Exact matches: 0
+Gold entities: [(19, 76, 'SKILL')]
+Predicted entities: [(4, 76, 'SKILL')]
+
+---
+
+Row: 40
+Text preview: * • Node JS ( server side and tooling ) * • React or similar view framework
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 41
+Text preview: <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> is a global leader in financial services providing strategic advice and products to the world's most prominent corporations governments wealthy individuals
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 42
+Text preview: Our first-class business in a first-class way approach to serving clients drives everything we do .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 43
+Text preview: We strive to build trusted long-term partnerships to help our clients achieve their business objectives .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 44
+Text preview: We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 45
+Text preview: We are an equal opportunity employer and place a high value on diversity and inclusion at our company .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 46
+Text preview: We do not discriminate on the basis of any protected attribute including race religion color national origin gender sexual orientation gender identity gender expression age marital or veteran status p
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 47
+Text preview: In accordance with applicable law we make reasonable accommodations for applicants' and employees' religious practices and beliefs as well as any mental health or physical disability needs .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 48
+Text preview: Job benefits: -
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 49
+Text preview: Company description:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 50
+Text preview: <DESCRIPTION>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 51
+Text preview: Software Engineer - Java
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 52
+Text preview: <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 53
+Text preview: <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 54
+Text preview: Date posted: 2021-03-10
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 55
+Text preview: Likes: 0 Dislikes: 0 Love: 0
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 56
+Text preview: Salary: <SALARY>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 57
+Text preview: Job type: FULL_TIME
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 58
+Text preview: Experience level: <EXPERIENCE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 59
+Text preview: Industry: <INDUSTRY>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 60
+Text preview: Company size: <SIZE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 61
+Text preview: Company type: <COMPANY_TYPE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 62
+Text preview: Technologies:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 63
+Text preview: java spring java-ee
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 64
+Text preview: Job description:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 65
+Text preview: Job type:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 66
+Text preview: Full-time
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 67
+Text preview: Technologies
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 68
+Text preview: java spring java-ee
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 69
+Text preview: Job description
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 70
+Text preview: As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices .
+Gold count: 1
+Predicted count: 1
+Exact matches: 0
+Gold entities: [(128, 153, 'SKILL')]
+Predicted entities: [(128, 198, 'SKILL')]
+
+---
+
+Row: 71
+Text preview: You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to s
+Gold count: 3
+Predicted count: 2
+Exact matches: 2
+Gold entities: [(130, 178, 'SKILL'), (199, 227, 'SKILL'), (22, 65, 'SKILL')]
+Predicted entities: [(130, 178, 'SKILL'), (22, 65, 'SKILL')]
+
+---
+
+Row: 72
+Text preview: We embrace a culture of experimentation and constantly strive for improvement and learning .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 73
+Text preview: You'll work in a collaborative trusting thought-provoking environment-one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 74
+Text preview: This role requires a wide variety of strengths and capabilities including:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 75
+Text preview: * BS/BA degree or equivalent experience
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 76
+Text preview: * Java Spring Boot NoSQL Message Cloud CI/CD Experience
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 77
+Text preview: * Advanced knowledge of application data and infrastructure architecture disciplines
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 78
+Text preview: * Understanding of architecture and design across all systems
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 79
+Text preview: * Working proficiency in developmental toolsets
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 80
+Text preview: * Knowledge of industry-wide technology trends and best practices
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 81
+Text preview: * Ability to work in large collaborative teams to achieve organizational goals
+Gold count: 2
+Predicted count: 1
+Exact matches: 1
+Gold entities: [(50, 78, 'SKILL'), (13, 46, 'SKILL')]
+Predicted entities: [(13, 46, 'SKILL')]
+
+---
+
+Row: 82
+Text preview: * Passionate about building an innovative culture
+Gold count: 1
+Predicted count: 1
+Exact matches: 1
+Gold entities: [(19, 49, 'SKILL')]
+Predicted entities: [(19, 49, 'SKILL')]
+
+---
+
+Row: 83
+Text preview: *
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 84
+Text preview: Proficiency in one or more modern programming languages
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 85
+Text preview: * Understanding of software skills such as business analysis development maintenance and software improvement
+Gold count: 3
+Predicted count: 0
+Exact matches: 0
+Gold entities: [(89, 109, 'SKILL'), (73, 84, 'SKILL'), (61, 72, 'SKILL')]
+Predicted entities: []
+
+---
+
+Row: 86
+Text preview: <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> is a global leader in financial services providing strategic advice and products to the world's most prominent corporations governments wealthy individuals
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 87
+Text preview: Our first-class business in a first-class way approach to serving clients drives everything we do .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 88
+Text preview: We strive to build trusted long-term partnerships to help our clients achieve their business objectives .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 89
+Text preview: We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 90
+Text preview: We are an equal opportunity employer and place a high value on diversity and inclusion at our company .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 91
+Text preview: We do not discriminate on the basis of any protected attribute including race religion color national origin gender sexual orientation gender identity gender expression age marital or veteran status p
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 92
+Text preview: In accordance with applicable law we make reasonable accommodations for applicants' and employees' religious practices and beliefs as well as any mental health or physical disability needs .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 93
+Text preview: Job benefits: -
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 94
+Text preview: Company description:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 95
+Text preview: <DESCRIPTION>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 96
+Text preview: DevOps Ninja Engineer ( . NET/Azure ) <ORGANIZATION>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 97
+Text preview: <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 98
+Text preview: Date posted: 2021-03-26
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 99
+Text preview: Likes: 1 Dislikes: 0 Love: 0
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 100
+Text preview: Salary: <SALARY>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 101
+Text preview: Job type: FULL_TIME
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 102
+Text preview: Experience level: Mid-Level
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 103
+Text preview: Industry: Financial Technology SaaS wealthtech
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 104
+Text preview: Company size: <SIZE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 105
+Text preview: Company type: <COMPANY_TYPE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 106
+Text preview: Technologies:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 107
+Text preview: azure . net asp.net-web-api powershell json.net
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 108
+Text preview: Job description:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 109
+Text preview: Location options:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 110
+Text preview: Remote
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 111
+Text preview: Job type:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 112
+Text preview: Full-time
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 113
+Text preview: Experience level:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 114
+Text preview: Mid-Level
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 115
+Text preview: Role:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 116
+Text preview: DevOps
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 117
+Text preview: Industry:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 118
+Text preview: Financial Technology SaaS wealthtech
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 119
+Text preview: Company size:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 120
+Text preview: 51–200 people
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 121
+Text preview: Company type:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 122
+Text preview: Private
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 123
+Text preview: Technologies
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 124
+Text preview: azure . net asp.net-web-api powershell json.net
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 125
+Text preview: Job description
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 126
+Text preview: DevOps Ninja Engineer ( . NET/Azure ) Join our brilliant DevOps engineer who eats breathes and sleeps automation ( when he isn't building complex Lego models) to make our next DevOps quantum leap .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 127
+Text preview: You will work in <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> to help enhance and maintain our evolving automation pipelines and environments .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 128
+Text preview: Open for continuous change with passion for automation and proven experience with Azure PaaS microservices . NET PowerShell and MS SQL you will enable us to further develop our enterprise wealth manag
+Gold count: 1
+Predicted count: 2
+Exact matches: 1
+Gold entities: [(0, 26, 'SKILL')]
+Predicted entities: [(0, 26, 'SKILL'), (253, 268, 'SKILL')]
+
+---
+
+Row: 129
+Text preview: Your responsibilities
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 130
+Text preview: Enhance and maintain CI infrastructure pipelines and Azure PaaS environments
+Gold count: 1
+Predicted count: 0
+Exact matches: 0
+Gold entities: [(0, 76, 'SKILL')]
+Predicted entities: []
+
+---
+
+Row: 131
+Text preview: Ensure on-going health and stability of pipelines across multiple environments
+Gold count: 1
+Predicted count: 1
+Exact matches: 0
+Gold entities: [(0, 78, 'SKILL')]
+Predicted entities: [(0, 49, 'SKILL')]
+
+---
+
+Row: 132
+Text preview: Administrate and manage Azure resources such as subscriptions resource groups and other DevOps services such as GitHub etc .
+Gold count: 1
+Predicted count: 0
+Exact matches: 0
+Gold entities: [(0, 39, 'SKILL')]
+Predicted entities: []
+
+---
+
+Row: 133
+Text preview: Support developers troubleshooting deployed applications ( identify app issues vs configuration/environment issues ) Enhance quality through pipelines and usage of static analysis tools ( SonarQube . 
+Gold count: 5
+Predicted count: 1
+Exact matches: 0
+Gold entities: [(0, 18, 'SKILL'), (59, 116, 'SKILL'), (155, 185, 'SKILL'), (19, 56, 'SKILL'), (117, 150, 'SKILL')]
+Predicted entities: [(0, 56, 'SKILL')]
+
+---
+
+Row: 134
+Text preview: Proven experience in creating and maintaining build and deployment pipelines for web applications and services ( Azure AppService IIS ) and SQL DBs
+Gold count: 1
+Predicted count: 1
+Exact matches: 1
+Gold entities: [(21, 110, 'SKILL')]
+Predicted entities: [(21, 110, 'SKILL')]
+
+---
+
+Row: 135
+Text preview: Ability to troubleshoot Azure AppService hosted websites and services ( identify app issues vs configuration/environment issues) preferably . NET technology stack
+Gold count: 2
+Predicted count: 0
+Exact matches: 0
+Gold entities: [(72, 128, 'SKILL'), (11, 69, 'SKILL')]
+Predicted entities: []
+
+---
+
+Row: 136
+Text preview: Proven experience in automation ( e.g.: PowerShell Azure CLI json
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 137
+Text preview: - and yaml
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 138
+Text preview: - based templates etc. ) Familiarity with the following Azure services ( or equivalents from different cloud providers ) is a clear advantage: AppServices Redis ServiceBus Api Management CosmosDB KeyV
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 139
+Text preview: Basic knowledge of Azure SQL and experience with SQL scripts
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 140
+Text preview: Proven experience with Azure DevOps ( cloud and server ) is a plus
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 141
+Text preview: Knowledge and experience with Docker Containers / K8s are a clear advantage
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 142
+Text preview: Fluent in written and spoken English any additional language is a plus
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 143
+Text preview: Job benefits:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 144
+Text preview: flexible working hours
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 145
+Text preview: 25 days ( <LOCATION> 20 days ( <LOCATION> ) paid vacation
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 146
+Text preview: on-the-job-training
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 147
+Text preview: fair market salaries
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 148
+Text preview: learning environment - test & learn is the foundation for innovation
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 149
+Text preview: dynamic and experienced team - we are shapers and makers
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 150
+Text preview: start-up feeling
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 151
+Text preview: free coffee and mineral water
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 152
+Text preview: Company description:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 153
+Text preview: Established in 1998 <ORGANIZATION> partners with the world’s leading financial institutions to help them capitalize on digitalization .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 154
+Text preview: Our market-leading DFS® ( Digital Finance Suite ) is an orchestration engine that lets financial institutions quickly launch new propositions as well as giving them the intelligence to maximize custom
+Gold count: 0
+Predicted count: 1
+Exact matches: 0
+Gold entities: []
+Predicted entities: [(153, 181, 'SKILL')]
+
+---
+
+Row: 155
+Text preview: With a global presence and offices in <LOCATION> <LOCATION> <LOCATION> <LOCATION> and <LOCATION> as well as development centres in <LOCATION> <LOCATION> we enable our customers to offer an outstanding
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 156
+Text preview: Our solution allows investors to plan track and manage their investment goals by leveraging our state-of-the-art Digital Finance Suite platform.
+Gold count: 0
+Predicted count: 1
+Exact matches: 0
+Gold entities: []
+Predicted entities: [(81, 143, 'SKILL')]
+
+---
+
+Row: 157
+Text preview: Principle Software Engineer | Java
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 158
+Text preview: <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 159
+Text preview: <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 160
+Text preview: Date posted: 2021-01-21
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 161
+Text preview: Likes: 0 Dislikes: 0 Love: 0
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 162
+Text preview: Salary: <SALARY>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 163
+Text preview: Job type: FULL_TIME
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 164
+Text preview: Experience level: <EXPERIENCE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 165
+Text preview: Industry: Financial Services
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 166
+Text preview: Company size: <SIZE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 167
+Text preview: Company type: <COMPANY_TYPE>
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 168
+Text preview: Technologies:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 169
+Text preview: java reactjs web-services
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 170
+Text preview: Job description:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 171
+Text preview: Job type:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 172
+Text preview: Full-time
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 173
+Text preview: Industry:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 174
+Text preview: Financial Services
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 175
+Text preview: Company size:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 176
+Text preview: 10k+ people
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 177
+Text preview: Company type:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 178
+Text preview: Public
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 179
+Text preview: Technologies
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 180
+Text preview: java reactjs web-services
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 181
+Text preview: Job description
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 182
+Text preview: Banking Technology Engineering & Architecture - Principle Software Engineer
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 183
+Text preview: As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> we look first and foremost for people who are passionate around solving business problems t
+Gold count: 1
+Predicted count: 1
+Exact matches: 0
+Gold entities: [(173, 198, 'SKILL')]
+Predicted entities: [(173, 241, 'SKILL')]
+
+---
+
+Row: 184
+Text preview: You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to
+Gold count: 3
+Predicted count: 2
+Exact matches: 2
+Gold entities: [(201, 229, 'SKILL'), (132, 180, 'SKILL'), (24, 67, 'SKILL')]
+Predicted entities: [(132, 180, 'SKILL'), (24, 67, 'SKILL')]
+
+---
+
+Row: 185
+Text preview: We embrace a culture of experimentation and constantly strive for improvement and learning .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 186
+Text preview: You'll work in a collaborative trusting thought-provoking environment-one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 187
+Text preview: As part of <ORGANIZATION> you will join the <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> which is responsible for creating common value added services to be used across Banking by leveraging best in c
+Gold count: 0
+Predicted count: 1
+Exact matches: 0
+Gold entities: []
+Predicted entities: [(180, 247, 'SKILL')]
+
+---
+
+Row: 188
+Text preview: We will also establish common demand for services and provide managed services for applications across the estate .
+Gold count: 0
+Predicted count: 1
+Exact matches: 0
+Gold entities: []
+Predicted entities: [(13, 49, 'SKILL')]
+
+---
+
+Row: 189
+Text preview: This role requires a wide variety of strengths and capabilities including:
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 190
+Text preview: • BS/BA degree or equivalent experience
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 191
+Text preview: • Strong knowledge of application data and infrastructure architecture disciplines
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 192
+Text preview: • Expert understanding of architecture and design across all systems
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 193
+Text preview: • Successful contribution to software systems
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 194
+Text preview: • Working proficiency in developmental toolsets
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 195
+Text preview: • Knowledge of industry wide technology strategies and best practices
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 196
+Text preview: • Ability to work in a co-located team to achieve organizational goals and passionate about building an innovative culture
+Gold count: 3
+Predicted count: 2
+Exact matches: 2
+Gold entities: [(92, 122, 'SKILL'), (13, 38, 'SKILL'), (42, 70, 'SKILL')]
+Predicted entities: [(92, 122, 'SKILL'), (13, 38, 'SKILL')]
+
+---
+
+Row: 197
+Text preview: • Understanding of software skills such as business analysis development maintenance and software improvement
+Gold count: 1
+Predicted count: 0
+Exact matches: 0
+Gold entities: [(19, 34, 'SKILL')]
+Predicted entities: []
+
+---
+
+Row: 198
+Text preview: • A clear passion to deliver high quality products
+Gold count: 1
+Predicted count: 1
+Exact matches: 1
+Gold entities: [(21, 50, 'SKILL')]
+Predicted entities: [(21, 50, 'SKILL')]
+
+---
+
+Row: 199
+Text preview: • Expertise proficiency level in one or more modern programming languages i.e .
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+
+Row: 200
+Text preview: Java/J2EE Python Go React
+Gold count: 0
+Predicted count: 0
+Exact matches: 0
+Gold entities: []
+Predicted entities: []
+
+---
+

@@ -1,0 +1,22 @@
+BASELINE CLEANUP COMPARISON SUMMARY
+===================================
+
+Noisy label comparison
+----------------------
+assume responsibility: V1=0, V2=0
+cope with stress: V1=0, V2=0
+show commitment: V1=0, V2=0
+work independently: V1=0, V2=0
+maintenance operations: V1=0, V2=0
+product comprehension: V1=0, V2=0
+company policies: V1=0, V2=0
+meet commitments: V1=2, V2=0
+build trust: V1=3, V2=0
+demonstrate trustworthiness: V1=2, V2=0
+demonstrate willingness to learn: V1=2, V2=0
+
+Label overlap summary
+---------------------
+V1 only labels: 4
+Shared labels: 86
+V2 only labels: 0

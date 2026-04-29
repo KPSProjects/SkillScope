@@ -1,0 +1,46 @@
+WEAK LABELLED REED PREVIEW
+==========================
+
+Text column used: job_description
+Rows saved: 16
+
+Row 1
+idx: 1
+source: reed_weak
+token count: 464
+skill label count: 464
+tokens sample: ['Come', 'and', 'Join', 'the', 'team', 'as', 'a', 'Care', 'Worker', 'and', 'make', 'the', 'Alina', 'homecare', 'difference', 'We', 'are', 'looking', 'for', 'kind', 'and', 'caring', 'people', 'who', 'want', 'to', 'make', 'a', 'difference', 'to', 'the', 'lives', 'of', 'others', '.', 'If', 'you', 'have', 'a', 'caring']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 2
+idx: 2
+source: reed_weak
+token count: 723
+skill label count: 723
+tokens sample: ['Job', 'Details', 'We', 'have', 'two', 'permanent', 'full', 'time', '(', '36', 'hours', 'per', 'week', ')', 'positions', 'available', '.', '£', '25', ',', '821', 'per', 'annum', 'for', '36', 'hours', 'per', 'week', '.', 'Flexible', 'work', 'location', 'will', 'be', 'discussed', 'at', 'interview', 'stage', '.', 'From']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 3
+idx: 3
+source: reed_weak
+token count: 261
+skill label count: 261
+tokens sample: ['Tax', 'Senior', 'Manager', '(', 'Share', 'Schemes', ')', '-', 'Bristol', 'Are', 'you', 'a', 'Tax', 'Senior', 'Manager', 'with', 'share', 'plan', 'and', 'deals', 'experience', '?', 'Are', 'you', 'looking', 'to', 'work', 'with', 'private', 'business', 'and', 'PE', 'backed', 'markets', '?', 'I', "'", 'm', 'currently', 'managing']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 4
+idx: 4
+source: reed_weak
+token count: 111
+skill label count: 111
+tokens sample: ['ENS', 'Recruitment', 'is', 'currently', 'working', 'with', 'a', 'small', 'Healthcare', 'provider', 'and', 'they', 'are', 'looking', 'to', 'recruit', 'Registered', 'Nurses', 'for', 'their', 'Nursing', 'home', 'in', 'Rayleigh', '.', 'Various', 'shift', 'patterns', 'available', ',', 'nights', 'or', 'days', ',', 'full', 'time', 'or', 'part', 'time', '.']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 5
+idx: 5
+source: reed_weak
+token count: 169
+skill label count: 169
+tokens sample: ['Great', 'opportunity', 'in', 'a', 'top', '10', 'accounting', 'firm', 'Compliance', 'and', 'advisory', 'role', 'for', 'a', 'broad', 'range', 'of', 'clients', 'Client', 'Details', 'This', 'large', 'accounting', 'firm', 'is', 'looking', 'for', 'an', 'Assistant', 'Tax', 'manager', 'to', 'join', 'their', 'corporate', 'tax', 'team', '.', 'Description', 'Responsible']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+

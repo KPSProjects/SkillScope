@@ -1,0 +1,53 @@
+CV TO JOB SKILL MATCH REPORT
+============================
+
+Job skill count: 8
+CV skill count: 28
+Matched skills: 3
+Missing skills: 5
+Extra skills: 25
+Matched weight total: 6.0
+Total job weight: 14.0
+Match score: 42.86%
+
+Matched skills
+--------------
+- artificial intelligence
+- continuous learning
+- python
+
+Missing skills
+--------------
+- analytics
+- consultancy skills
+- data wrangling
+- mathematics
+- predictive modelling
+
+Extra skills
+------------
+- communication
+- compliance
+- computer science
+- css
+- data cleaning
+- data engineering
+- data visualisation
+- documentation
+- git
+- github
+- html
+- information security
+- java
+- machine learning
+- mongodb
+- mysql
+- natural language processing
+- problem solving
+- project management
+- reporting
+- secure coding
+- sql
+- sqlite
+- stakeholder communication
+- troubleshooting

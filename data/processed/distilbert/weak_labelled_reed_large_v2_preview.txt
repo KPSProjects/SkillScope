@@ -1,0 +1,45 @@
+WEAK LABELLED REED LARGE V2 PREVIEW
+===================================
+
+Rows saved: 368
+
+Row 1
+idx: 1
+source: reed_large_weak_v2_job_description
+token count: 80
+skill label count: 80
+tokens sample: ['You', 'need', 'to', 'feel', 'comfortable', 'presenting', 'in', 'front', 'of', 'othersAnalyse', 'and', 'identify', 'statistical', 'trends', 'and', 'proactively', 'address', 'issues', 'raised', 'within', 'the', 'regionDemonstrate', 'your', 'experience', 'of', 'complex', 'ER', 'caseworkHave', 'worked', 'or', 'be', 'willing', 'to', 'work', 'in', 'a', 'regional', 'or', 'multisite', 'role', 'involving', 'regular', 'travel', 'and', 'staying', 'away', 'from', 'homeHave', 'excellent', 'employment']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B']
+
+Row 2
+idx: 2
+source: reed_large_weak_v2_job_description
+token count: 91
+skill label count: 91
+tokens sample: ['Degree', 'qualified', ',', 'or', 'equivalent', 'experience', 'in', 'a', 'mechanical', 'engineering', 'or', 'metals', 'manufacturing', 'environment', 'Strong', 'communication', 'skills', 'to', 'maintain', 'effective', 'sharing', 'of', 'information', 'across', 'all', 'levels', 'of', 'the', 'business', 'Excellent', 'organisational', 'skills', ',', 'with', 'the', 'ability', 'to', 'effectively', 'prioritise', 'a', 'large', 'workload', 'and', 'manage', 'multiple', 'tasks', 'Strong', 'and', 'proven', 'understanding']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 3
+idx: 3
+source: reed_large_weak_v2_job_description
+token count: 53
+skill label count: 53
+tokens sample: ['Demonstrable', 'customer', 'service', '/', 'administration', 'background', 'with', 'the', 'desire', 'to', 'succeed', 'in', 'recruitment', '.', 'Previous', 'office', ',', 'customer', 'service', ',', 'HR', 'or', 'recruitment', 'experience', 'would', 'be', 'highly', 'beneficial', '.', 'A', 'solutions', 'focused', 'approach', '.', 'Possess', 'drive', ',', 'tenacity', 'and', 'be', 'hard', 'working', '.', 'A', 'polished', 'and', 'clear', 'communicator', '.', 'Naturally']
+tags sample: ['O', 'B', 'I', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 4
+idx: 4
+source: reed_large_weak_v2_job_description
+token count: 153
+skill label count: 153
+tokens sample: ['WORKSHOP', 'CONTROLLER', 'SKILLS', '&', 'QUALIFICATIONS', 'Â', '·', 'Must', 'have', 'evidential', 'proof', 'that', 'you', 'are', 'able', 'to', 'run', 'a', 'productive', 'workshop', 'Â', '·', 'Main', 'Dealer', 'experience', 'as', 'a', 'workshop', 'controller', 'Â', '·', 'Great', 'understanding', 'of', 'a', 'workshopÂ', '·', 'Ability', 'to', 'manage', 'up', 'to', '12', 'technicians', 'Â', '·', 'Must', 'be', 'able', 'to']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 5
+idx: 5
+source: reed_large_weak_v2_job_description
+token count: 27
+skill label count: 27
+tokens sample: ['L', '&', 'D', ',', 'reward', ',', 'recruitment', ',', 'performance', 'management', ')', 'UK', 'Employment', 'Law', 'and', 'HMRC', 'regulations', 'HR', 'Management', 'best', 'practice', 'Experience', 'in', 'managing', 'annual', 'processes', ':']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I', 'O', 'O', 'O', 'B', 'I', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+

@@ -1,0 +1,45 @@
+WEAK LABELLED REED LARGE V1 PREVIEW
+===================================
+
+Rows saved: 842
+
+Row 1
+idx: 1
+source: reed_large_weak_job_description
+token count: 9
+skill label count: 9
+tokens sample: ['Able', 'to', 'work', 'under', 'pressure', 'to', 'meet', 'strict', 'deadlines']
+tags sample: ['O', 'O', 'B', 'I', 'I', 'O', 'O', 'O', 'O']
+
+Row 2
+idx: 2
+source: reed_large_weak_job_description
+token count: 79
+skill label count: 79
+tokens sample: ['You', 'need', 'to', 'feel', 'comfortable', 'presenting', 'in', 'front', 'of', 'othersAnalyse', 'and', 'identify', 'statistical', 'trends', 'and', 'proactively', 'address', 'issues', 'raised', 'within', 'the', 'regionDemonstrate', 'your', 'experience', 'of', 'complex', 'ER', 'caseworkHave', 'worked', 'or', 'be', 'willing', 'to', 'work', 'in', 'a', 'regional', 'or', 'multisite', 'role', 'involving', 'regular', 'travel', 'and', 'staying', 'away', 'from', 'homeHave', 'excellent', 'employment']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B']
+
+Row 3
+idx: 3
+source: reed_large_weak_job_description
+token count: 61
+skill label count: 61
+tokens sample: ['Based', 'from', 'their', 'Head', 'Office', 'and', 'Production', 'Kitchen', 'just', 'outside', 'of', 'Leeds', 'you', 'will', 'be', 'in', 'charge', 'of', 'a', 'team', 'of', 'Chefs', ',', 'so', 'this', 'position', 'would', 'best', 'suit', 'someone', 'with', 'experience', 'managing', 'a', 'team', 'The', 'position', 'will', 'involve', 'travel', 'across', 'Yorkshire', 'to', 'event', 'locations', 'and', 'will', 'give', 'you', 'the']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I', 'I', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+
+Row 4
+idx: 4
+source: reed_large_weak_job_description
+token count: 25
+skill label count: 25
+tokens sample: ['This', 'is', 'a', 'very', 'hands', '-', 'on', 'role', ',', 'requiring', 'you', 'to', 'be', 'a', 'great', 'team', 'player', ',', 'with', 'the', 'ability', 'to', 'work', 'under', 'pressure']
+tags sample: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I', 'I']
+
+Row 5
+idx: 5
+source: reed_large_weak_job_description
+token count: 25
+skill label count: 25
+tokens sample: ['You', 'will', 'enjoy', 'working', 'closely', 'alongside', 'your', 'experienced', 'colleagues', 'to', 'deliver', 'and', 'maintain', 'the', 'highest', 'levels', 'of', 'customer', 'satisfaction', 'that', 'the', 'industry', 'has', 'to', 'offer']
+tags sample: ['O', 'O', 'B', 'I', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I', 'O', 'O', 'O', 'O', 'O', 'O']
+

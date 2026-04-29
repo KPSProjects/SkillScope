@@ -1,0 +1,12 @@
+BASELINE VS SKILLSPAN EVALUATION SUMMARY
+=======================================
+
+Documents evaluated: 20
+Total gold skills: 267
+Total predicted skills: 259
+Total overlap skills: 9
+Average precision: 0.0316
+Average recall: 0.0294
+
+Note: this is an approximate exact-string-overlap evaluation.
+SkillSpan gold spans and ESCO dictionary phrases may express the same skill differently.

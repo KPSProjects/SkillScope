@@ -1,0 +1,70 @@
+CV AND JOB SKILL MATCHING RESULTS
+=================================
+
+CV TEXT
+-------
+I have experience with Java, JavaScript, SQL, machine learning, troubleshooting, agile working, application testing and supporting developers.
+
+JOB ADVERT TEXT
+----------------
+We are looking for someone with Java, JavaScript, SQL, PowerShell, machine learning, troubleshooting, agile delivery and continuous delivery.
+
+CV CHUNKS
+---------
+- I have experience with Java
+- JavaScript
+- SQL
+- machine learning
+- troubleshooting
+- agile working
+- application testing and supporting developers.
+
+JOB CHUNKS
+----------
+- We are looking for someone with Java
+- JavaScript
+- SQL
+- PowerShell
+- machine learning
+- troubleshooting
+- agile delivery and continuous delivery.
+
+DISTILBERT CV CANDIDATES
+------------------------
+- application testing
+
+DISTILBERT JOB CANDIDATES
+-------------------------
+No job candidate phrases found.
+
+CV SKILLS AFTER ESCO MAPPING
+----------------------------
+- application testing | ESCO: None
+
+JOB SKILLS AFTER ESCO MAPPING
+-----------------------------
+No job skills found.
+
+EXACT RAW MATCHES
+-----------------
+No exact raw matches found.
+
+TAXONOMY MATCHES
+----------------
+No taxonomy matches found.
+
+SIMILARITY MATCHES
+------------------
+No similarity matches found.
+
+MISSING JOB SKILLS
+------------------
+No missing job skills found.
+
+MATCH SUMMARY
+-------------
+Total CV skills found: 1
+Total job skills found: 0
+Matched job skills: 0
+Missing job skills: 0
+Match percentage: 0.00%

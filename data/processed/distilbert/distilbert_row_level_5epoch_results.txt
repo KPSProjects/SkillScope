@@ -1,0 +1,14 @@
+ROW-LEVEL DISTILBERT RESULTS 5 EPOCHS
+====================================
+
+Dataset preparation time: 2.98 seconds
+Model loading time: 0.26 seconds
+Training time: 2279.66 seconds
+DEV evaluation time: 29.36 seconds
+TEST evaluation time: 31.86 seconds
+
+DEV RESULTS
+{'eval_loss': 0.2680771052837372, 'eval_precision': 0.4236111111111111, 'eval_recall': 0.45607476635514016, 'eval_f1': 0.43924392439243926, 'eval_accuracy': 0.9326075557442134, 'eval_runtime': 29.3567, 'eval_samples_per_second': 108.118, 'eval_steps_per_second': 13.523, 'epoch': 5.0}
+
+TEST RESULTS
+{'eval_loss': 0.2449573576450348, 'eval_precision': 0.4150268336314848, 'eval_recall': 0.42529789184234645, 'eval_f1': 0.4200995925758261, 'eval_accuracy': 0.9403267653039759, 'eval_runtime': 31.8566, 'eval_samples_per_second': 112.033, 'eval_steps_per_second': 14.032, 'epoch': 5.0}

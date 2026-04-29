@@ -1,0 +1,28 @@
+BASELINE V1 VS V2 COMPARISON SUMMARY
+====================================
+
+V1 Top 10 Skills
+----------------
+customer service: 175
+health and safety in the workplace: 45
+employment law: 14
+labour legislation: 14
+statistics: 13
+SAP Data Services: 12
+family law: 11
+project commissioning: 11
+project management: 11
+lean manufacturing: 10
+
+V2 Top 10 Skills
+----------------
+customer service: 175
+health and safety in the workplace: 45
+employment law: 14
+labour legislation: 14
+statistics: 13
+SAP Data Services: 12
+project management: 11
+project commissioning: 11
+family law: 11
+lean manufacturing: 10

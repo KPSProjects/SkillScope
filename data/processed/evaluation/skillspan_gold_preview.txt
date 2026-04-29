@@ -1,0 +1,187 @@
+=== TRAIN GOLD SKILL PREVIEW ===
+
+idx: 1
+source: tech
+gold skill count: 8
+gold skills: ['implementing and promoting all QA relevant topics', 'Design and implement complex end-to-end tests', 'Work hands-on', 'ensure continuous quality delivery of automated acceptance API and performance tests', 'constantly collaborating', 'Own a thought-leadership influence regarding QA relevant topics', 'working on a cloud-based application', 'running tests automatically']
+text sample: Senior QA Engineer ( m/f/d ) <ORGANIZATION> <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION> Date posted: 2021-07-14 Likes: 0 Dislikes: 0 Love: 0 Job description: Location options: Remote Visa sponsor Paid relocation Job type: Full-time Experience level: Senior Role: QA/Test Developer Industry:
+
+idx: 2
+source: tech
+gold skill count: 5
+gold skills: ['solving business problems through innovation and engineering practices', 'apply your depth of knowledge and expertise', 'partner continuously with your many stakeholders', 'work in large collaborative teams', 'building an innovative culture']
+text sample: Cloud DevOps Engineer <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-01-21 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Role: DevOps Industry: Financial Services Company size: 10k+ people Company type: Public Technologies
+
+idx: 3
+source: tech
+gold skill count: 22
+gold skills: ['passion', 'energy', 'focus', 'enthusiasm', 'self-starter', 'managing and prioritising your own workload', 'get things done quickly ( whilst maintaining quality);', 'working to a pace', 'team-player', 'works as well with others as well as individually', 'contributing ideas', 'participating in discussions with the team', 'take critique', 'self-improve', 'move forward fast']
+text sample: Front-end Developer <ORGANIZATION> <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION> Date posted: 2021-04-21 Likes: 0 Dislikes: 0 Love: 0 Job description: Compensation: £40k - 50k Location options: Remote Job type: Full-time Technologies front-end agile css Job description About <ORGANIZATION> <ORGANIZATION> is a
+
+idx: 4
+source: tech
+gold skill count: 10
+gold skills: ['passionate', 'developing reliable code', 'conceptualizing and implementing complex new systems', 'crafting a beautiful user experience', 'effectively using indexes', 'optimizing slow queries', 'avoid common problems', 'personal and professional skills', 'result-oriented mindset', 'empathetic']
+text sample: Senior Full-Stack Engineer ( m/f/d ) <ORGANIZATION> <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION> Date posted: 2021-02-03 Likes: 2 Dislikes: 0 Love: 1 Job description: Location options: Remote Job type: Full-time Experience level: Senior Role: Frontend Developer Full Stack Developer Industry: B2B
+
+idx: 5
+source: tech
+gold skill count: 9
+gold skills: ['build and rollout capabilities', 'drive customer engagement', 'solving business problems through innovation and engineering practices', 'apply your depth of knowledge and expertise', 'partner continuously with your many stakeholders', 'stay focused on common goals', 'work in large collaborative teams', 'building an innovative culture', 'developing desktop and mobile applications']
+text sample: Full Stack Software Engineer ( JavaScript / React /Node JS ) <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-08-09 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Role: Full Stack Developer Industry:
+
+idx: 6
+source: tech
+gold skill count: 16
+gold skills: ['deliver resilient and scalable APIs in Kotlin/SpringBoot .', 'deliver clean tested and maintainable code', 'pairing', 'self-directed learning', 'Work in an agile environment', 'contribute to agile ceremonies - standups refinements and retrospectives', 'Support and mentor other engineers', 'Support and maintain existing products', 'Positive attitude', 'learn and discover new technologies', 'proactive', 'problem solver', 'gathering requirements and business analysis', 'team player', 'discuss and resolve conflicts positively']
+text sample: Senior Java Developer <ORGANIZATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-04-21 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Experience level: Senior Industry: Charity Non-Profit Publishing Company size: 501–1k people Company type: Private
+
+idx: 7
+source: tech
+gold skill count: 10
+gold skills: ['shape the engineering culture', 'Design', 'delivery', 'Build reusable code and libraries', 'Optimize our services', 'Collaborate with other team members and stakeholders', 'Coach and mentor less experienced peers', 'Strive for continuous improvement', 'Test driven approach to development', 'interpersonal and communication skills']
+text sample: Software Engineer - Java <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-07-10 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Industry: Financial Services Company size: 10k+ people Company type: Public Technologies cloud
+
+idx: 8
+source: tech
+gold skill count: 12
+gold skills: ['Write well designed secure testable efficient code', 'Adhere to agile principles', 'work closely and collaboratively with the wider team', 'Design and implement cloud native microservices', 'support the growing capabilities of the mobile stack', 'Ensure code hygiene and documentation is maintained', 'passionate and your field', 'keep updated on emerging technologies', 'critical of the design and styling of all components and products', 'ensure consistency and quality', 'developing Java based services', 'developing responsive web apps .']
+text sample: Backend Services Engineer <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-01-21 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Role: Backend Developer Industry: Financial Services Company size: 10k+ people Company type: Public
+
+idx: 9
+source: tech
+gold skill count: 24
+gold skills: ['build secure and maintain an environment in which modern technology and tools foster frictionless operations within the company?', 'building your own infrastructure', 'using the Cloud', 'translates people’s needs and expectations into actionable technical tasks', 'lead', 'develop', 'responsible for our global IT operations', 'strive to advance the organization’s IT strategy', 'work on continuous improvements', 'taking technical financial and security aspects into account', 'plan and ensure resource availability for timely fixes of IT infrastructure issues', 'operate company DNS website hosting and email infrastructure', 'establish IT processes and automations according to common best practices', 'work together with all departments', 'ensure everybody has the tools they need to maximize their productivity']
+text sample: Head of IT ( m/f/d ) <ORGANIZATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-03-23 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Experience level: Senior Lead Role: DevOps System Administrator Industry: IT Security Software Development
+
+idx: 10
+source: tech
+gold skill count: 18
+gold skills: ['recognise risk', 'design preventative or detective controls', 'Help build maintain and execute a strategy', 'secure our customer-facing products', 'Perform security reviews and code reviews', 'overseeing our Agile-SDL process', 'ensuring security throughout all phases of the SDL', 'Serve as the security SME for product engineering teams', 'Develop threat models for new and updated products', 'designing preventative and/or detective controls for specific security issues', 'Socialise automated security tools', 'guide product engineering teams', 'integrate security monitoring of products', 'build use cases', 'develop evangelise security solutions']
+text sample: Senior Product Security Engineer <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION> Date posted: 2021-01-01 Likes: 0 Dislikes: 0 Love: 0 Job description: Compensation: £60k - 80k Location options: Remote Paid relocation Job type: Full-time Experience level: Senior Lead Industry: Information
+
+
+=== DEV GOLD SKILL PREVIEW ===
+
+idx: 1
+source: tech
+gold skill count: 36
+gold skills: ['high calibre', 'experienced', 'hands-on', 'develop/configure new tools', 'roll out environments', 'automate processes', 'be at the forefront of change', 'Uses testing as a baseline practice:', 'build cloud native applications scratch', 'tackle monolithic system estates', 'Hands on', 'communicate at all levels', 'bringing complex technological issues into perspective', 'enabling our clients to adapt to changing needs', 'deliver better solutions']
+text sample: DevOps Engineer ( CI CD Cloud Docker Jenkins ) <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-04-22 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Experience level: Senior Role: DevOps Industry: Consulting Information Technology IT Consulting
+
+idx: 2
+source: tech
+gold skill count: 45
+gold skills: ['looking for a sense of purpose', 'want to make a real impact', 'develop services controls and patterns for cloud solutions', 'enable security and privacy at scale', 'ensuring adherence to best practice', 'contributing to architectural discussions and decisions', 'attending stand-ups', 'driving progress', 'proactively automate infrastructure and services', 'enable a small team to deliver value', 'planning and estimation for programmes of work', 'coordinating hosting systems development and operations', 'gather and analyse data', 'aid in informed decision-making', 'providing detailed realistic estimates']
+text sample: Senior DevOps Engineer teckro <LOCATION> <LOCATION> <LOCATION> <LOCATION> <ADDRESS> <LOCATION> 2 - <LOCATION> Date posted: 2021-01-03 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Experience level: Senior Role: Backend Developer DevOps System Administrator Industry: Computer Software Software
+
+idx: 3
+source: tech
+gold skill count: 11
+gold skills: ['Analyse business requirements', 'Evaluate possible solution scenarios', 'recommend best business and IT solution', 'Understand user issues', 'translate technology issues into a form that is understandable to non-technical people', 'Present technical solutions in line with clients ‘needs', 'Develop application to interface third party systems', 'bug fixing', 'UAT', 'business support', 'shell scripting']
+text sample: Java Backend Engineer with Integration Expertise <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-06-09 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Experience level: Lead Role: Backend Developer System Administrator Industry: Agile Software Development Banking IT
+
+idx: 4
+source: tech
+gold skill count: 19
+gold skills: ["interfacing with the technical project manager at customers' premises", 'provide information', 'collaborate', 'coordinate developers', 'meet customer needs', 'create a multi-language and multi-framework unit test generator?', 'refactor code?', 'understand represent and generate code with Machine Learning?', 'generate documentation?', 'generate code snippets?', 'automatically find bugs in code?', 'tackled complex issues;', 'passionate about tech', 'want to get involved in a project that is still young;', 'team player']
+text sample: Software Engineer <ORGANIZATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-03-22 Likes: 0 Dislikes: 0 Love: 0 Job description: Compensation: €50k - 65k | Equity Job type: Full-time Experience level: Junior Mid-Level Senior Industry: Artificial Intelligence Software
+
+idx: 5
+source: tech
+gold skill count: 44
+gold skills: ['domain expert', 'broad technical skills', 'business acumen', 'Leads technical solutions', 'promote business strategy goals', 'driving digital transformation cloud adoption optimization and automation .', 'leadership', 'technical skills', 'consultative approach', 'planning designing development and application of cloud architecture', 'achieve business strategies and transformations', 'provide counsel to senior leadership and teams', 'Leads the development tailoring and enhancement of cloud frameworks methods and tools', 'ensure the alignment and integration of cloud processes and deliverables', 'Leads the development of cloud transformation communications and education materials']
+text sample: Principal Cloud Architect <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION> Date posted: 2021-05-17 Likes: 0 Dislikes: 0 Love: 0 Job description: Location options: Remote Job type: Full-time Technologies architect aws gcp azure virtual Job description The Principal Cloud Architect is
+
+idx: 6
+source: tech
+gold skill count: 13
+gold skills: ['develop a solution in full', 'system design and configuration', 'application development', 'data integration', 'leverage everything around you:', 'work with customers around the globe', "be responsible for our customer's core company platform", 'work effectively in teams of technical and non-technical individuals', 'working in a rapidly changing environment', 'continuously learn', 'work independently', 'make decisions with minimal supervision', 'Willingness and interest to travel']
+text sample: Full Stack Java Developer ( Top Secret Clearance ) <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-05-02 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Experience level: Junior Mid-Level Senior Role: Full Stack Developer Industry: Software
+
+idx: 7
+source: tech
+gold skill count: 19
+gold skills: ['work within a cross-functional team', 'envision design and implement high-level solutions and technical requirements', 'thrive in a challenging and evolving start-up environment', 'develop the best possible product', 'Work in a cross-functional team', 'implement new features in frontend projects', 'Work on concepts and architecture', 'Manage deployment of new releases', 'Write and maintain technical documentation', 'Code reviews', 'debugging', 'motivation', 'eagerness to learn', 'problem solve complex issues', 'attention to detail']
+text sample: Frontend Engineer <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-06-07 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Experience level: Senior Role: Frontend Developer Industry: B2B Mobility SaaS Company size: 51–200 people Company type: VC
+
+idx: 8
+source: tech
+gold skill count: 6
+gold skills: ['independent', 'curious', 'sharp', 'software development', 'Passion about the business landscape', 'working with big data tools']
+text sample: Senior . NET SW Engineer <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-04-13 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Experience level: Senior Industry: Application Security Testing Cybersecurity Security Software Company size: 501–1k people Company
+
+idx: 9
+source: tech
+gold skill count: 30
+gold skills: ['pioneer new approaches', 'define and share best practices', 'train and mentor other staff', 'building capability across the profession', 'ensure', 'leading and advising on design choices', 'ensuring that software balances technical and business considerations', 'provide', 'balance new and live services', 'improving our continuous deployment pipeline', 'identify and remove bottlenecks', 'increase the speed', 'work with teams', 'identify areas for improvement,', 'coaching and mentoring team members']
+text sample: Principal Developer - <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-01-26 Likes: 0 Dislikes: 0 Love: 0 Job description: Compensation: £63k - 80k Job type: Full-time Experience level: Senior Lead Manager Industry: Agile Software
+
+idx: 10
+source: tech
+gold skill count: 2
+gold skills: ['architect design and develop the platform', 'deliver quality software in an agile environment']
+text sample: React/HTML5 Tech lead <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-03-07 Likes: 0 Dislikes: 0 Love: 0 Job description: Job type: Full-time Technologies reactjs agile html Job description The Data Catalog platform authors sources and
+
+
+=== TEST GOLD SKILL PREVIEW ===
+
+idx: 1
+source: tech
+gold skill count: 11
+gold skills: ['solving business problems', 'apply your depth of knowledge and expertise', 'partner continuously with your many stakeholders', 'stay focused on common goals', 'motivated', 'deliver of a next-generation analytics products', 'developmental toolsets', 'work in large collaborative teams', 'achieve organizational goals', 'building an innovative culture', 'developing multithreaded scalable concurrent applications']
+text sample: Full Stack Software Engineer - Java / JavaScript <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> . <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-03-04 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: <EXPERIENCE> Industry: <INDUSTRY> Company size: <SIZE>
+
+idx: 2
+source: tech
+gold skill count: 10
+gold skills: ['solving business problems', 'apply your depth of knowledge and expertise', 'partner continuously with your many stakeholders', 'stay focused on common goals', 'work in large collaborative teams', 'achieve organizational goals', 'building an innovative culture', 'development', 'maintenance', 'software improvement']
+text sample: Software Engineer - Java <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> . <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-03-10 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: <EXPERIENCE> Industry: <INDUSTRY> Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies:
+
+idx: 3
+source: tech
+gold skill count: 12
+gold skills: ['Open for continuous change', 'Enhance and maintain CI infrastructure pipelines and Azure PaaS environments', 'Ensure on-going health and stability of pipelines across multiple environments', 'Administrate and manage Azure resources', 'Support developers', 'troubleshooting deployed applications', 'identify app issues vs configuration/environment issues )', 'Enhance quality through pipelines', 'usage of static analysis tools', 'creating and maintaining build and deployment pipelines for web applications and services', 'troubleshoot Azure AppService hosted websites and services', 'identify app issues vs configuration/environment issues)']
+text sample: DevOps Ninja Engineer ( . NET/Azure ) <ORGANIZATION> <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION> Date posted: 2021-03-26 Likes: 1 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: Mid-Level Industry: Financial Technology SaaS wealthtech Company size: <SIZE> Company type:
+
+idx: 4
+source: tech
+gold skill count: 9
+gold skills: ['solving business problems', 'apply your depth of knowledge and expertise', 'partner continuously with your many stakeholders', 'stay focused on common goals', 'work in a co-located team', 'achieve organizational goals', 'building an innovative culture', 'software skills', 'deliver high quality products']
+text sample: Principle Software Engineer | Java <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-01-21 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: <EXPERIENCE> Industry: Financial Services Company size: <SIZE> Company type:
+
+idx: 5
+source: tech
+gold skill count: 4
+gold skills: ['build highly efficient accurate and scalable computer vision and machine learning services', 'solve technical challenges independently', 'good communicator', 'enjoy working in a team']
+text sample: Python Software Engineer Intern for <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-01-24 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: INTERN Experience level: Student Industry: Artificial Intelligence Computer
+
+idx: 6
+source: tech
+gold skill count: 19
+gold skills: ['gather technical requirements', 'architect solutions', 'estimate timelines', 'deliver and further develop applications', 'communicate', 'investigate', 'reward', 'promote', 'teamwork', 'code reviews', 'pair programming', 'QA', 'PM support', 'staying in touch', 'deploy apps']
+text sample: Senior Ruby on Rails Developer 12.000-18.000 PLN + VAT ( B2B ) <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <ADDRESS> <ADDRESS> <LOCATION> Date posted: 2021-02-11 Likes: 0 Dislikes: 0 Love: 0 Salary: 144000 - 216000 PLN YEAR Job type: FULL_TIME Experience level: <EXPERIENCE>
+
+idx: 7
+source: tech
+gold skill count: 4
+gold skills: ['Deliver initiatives', 'modernizing and transforming the platform', 'Work on a mix of front-end back-end and cloud technologies', 'running with a full stack development']
+text sample: UI Software Engineer <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-02-13 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: <EXPERIENCE> Industry: Financial Services Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies:
+
+idx: 8
+source: tech
+gold skill count: 17
+gold skills: ['build software', 'help our customers', 'build and expand our predictive analytics platform', 'work with a tightly knit team', 'Identify problems', 'run experiments', 'deploy promising solutions to production', 'Develop interfaces to ERP and POS software providers', 'work on ETL pipelines', 'integrate our customers data bases', 'Work closely together with our machine learning - and frontend developers', 'effective communication', 'documentation', 'writing software with emphasis on quality testability and automation', 'honest']
+text sample: Backend Engineer ( m/f/d ) <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ADDRESS> <ADDRESS> <LOCATION> - <LOCATION> Date posted: 2021-04-07 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME Experience level: Mid-Level Industry: <INDUSTRY> Company size: <SIZE> Company type: <COMPANY_TYPE> Technologies: django
+
+idx: 9
+source: tech
+gold skill count: 5
+gold skills: ['building front-end layer', 'Design and build front-end / BI layer', 'Troubleshoot issues', 'recommend optimizations', 'tune solution / reports for better performance']
+text sample: BI Developer <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> We’re looking for a BI Engineer / Developer to join our Data & Analytics team in <LOCATION> . In this role you will be responsible for building front-end layer of our data
+
+idx: 10
+source: tech
+gold skill count: 26
+gold skills: ['making the right decisions', 'definition & communication of “fit for purpose”', 'describing a solution architecture', 'aligning the teams around the technical orientation', 'connects with the teams', 'evaluate the different technical alternatives', 'continuous exploration and innovation', 'work in Delivery to business ( D2B ) or Service to deliver ( S2D ) context', 'creating business enabler ART epics', 'Design', 'Modelling', 'Documentation;', 'analyzing strategic objectives', 'defining specific goals', 'analytical and problem-solving skills']
+text sample: System Architect for our new Digital Development Center <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> - Branch <LOCATION> / Digital Development Center <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> <LOCATION> Date posted: 2021-04-19 Likes: 0 Dislikes: 0 Love: 0 Salary: <SALARY> Job type: FULL_TIME

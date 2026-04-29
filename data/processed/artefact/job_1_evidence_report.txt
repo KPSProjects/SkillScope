@@ -1,0 +1,210 @@
+SKILL MATCH EVIDENCE REPORT
+===========================
+
+JOB SKILL EVIDENCE
+------------------
+
+Skill: continuous learning
+Category: general_professional
+Weight: 1
+Requirement type: uncertain
+Confidence: 0.4
+Matched alias: training
+Evidence: At The Sofa Delivery Company, you’ll be the final link in delivering moments that matter. As a Van Driver, you’ll leave a lasting impression on our customers, delivering everything from recliners to footstools. No experience needed – if you have a valid driving licence with less than 6 points, we’ll provide all the training.
+
+Skill: customer communication
+Category: general_professional
+Weight: 1
+Requirement type: uncertain
+Confidence: 0.4
+Matched alias: communicate effectively with the customer
+Evidence: Communicate effectively with the customer prior to delivery to ensure that they know you’re on your way to their address.
+
+Skill: customer service
+Category: general_professional
+Weight: 2
+Requirement type: uncertain
+Confidence: 0.4
+Matched alias: customers
+Evidence: At The Sofa Delivery Company, you’ll be the final link in delivering moments that matter. As a Van Driver, you’ll leave a lasting impression on our customers, delivering everything from recliners to footstools. No experience needed – if you have a valid driving licence with less than 6 points, we’ll provide all the training.
+
+Skill: delivery operations
+Category: logistics
+Weight: 2
+Requirement type: uncertain
+Confidence: 0.4
+Matched alias: complete all deliveries
+Evidence: Complete all deliveries into customers’ homes in a safe and professional manner.
+
+Skill: driving
+Category: logistics
+Weight: 2
+Requirement type: uncertain
+Confidence: 0.4
+Matched alias: driver
+Evidence: Fancy a work-life balance that puts you in the driver’s seat? At The Sofa Delivery Company, delivering moments that matter is what we’re all about.
+
+Skill: driving licence
+Category: logistics
+Weight: 2
+Requirement type: uncertain
+Confidence: 0.4
+Matched alias: driving licence
+Evidence: At The Sofa Delivery Company, you’ll be the final link in delivering moments that matter. As a Van Driver, you’ll leave a lasting impression on our customers, delivering everything from recliners to footstools. No experience needed – if you have a valid driving licence with less than 6 points, we’ll provide all the training.
+
+Skill: warehouse operations
+Category: logistics
+Weight: 1
+Requirement type: uncertain
+Confidence: 0.4
+Matched alias: warehouse
+Evidence: Our colleagues are given the tools, training and support to make moments matter. We recognise and reward our people for going the extra mile, for our customers and each other. Whether you’re in the warehouse, out on the road, or in a customer’s home, at The Sofa Delivery Company, you’ll deliver moments that matter.
+
+
+CV SKILL EVIDENCE
+-----------------
+
+Skill: apply information security policies
+Category: devops
+Weight: 1
+Matched alias: data security
+Evidence: r systems fundamentals network concepts data security digital forensics professionalism ethic
+
+Skill: artificial intelligence
+Category: data_ai
+Weight: 2
+Matched alias: artificial intelligence
+Evidence: ciplinary team project machine learning artificial intelligence for problem solving information risk se
+
+Skill: communication
+Category: general_professional
+Weight: 1
+Matched alias: communication
+Evidence: nd decision making customer service and communication following procedures and safety rules w
+
+Skill: computer science
+Category: education
+Weight: 1
+Matched alias: computing science
+Evidence: ence full uk licence education bsc hons computing science software application developer senior h
+
+Skill: customer service
+Category: general_professional
+Weight: 2
+Matched alias: customer service
+Evidence: ual with experience in delivery driving customer service and fast-paced environments proven abil
+
+Skill: data visualisation
+Category: data
+Weight: 2
+Matched alias: data visualisation
+Evidence: vant modules human computer interaction data visualisation security operations incident management
+
+Skill: database
+Category: database
+Weight: 2
+Matched alias: database
+Evidence: /2023 05/2024 aberdeen relevant modules database design development professional practic
+
+Skill: delivery operations
+Category: logistics
+Weight: 2
+Matched alias: deliveries
+Evidence: the van in route order placing earlier deliveries for easier access and checking that all
+
+Skill: driving
+Category: logistics
+Weight: 2
+Matched alias: delivery driver
+Evidence: d service professional experience tesco delivery driver 2024 present aberdeen scotland operated
+
+Skill: driving licence
+Category: logistics
+Weight: 2
+Matched alias: driving licence
+Evidence: stem use quick learner with new systems driving licence full uk licence education bsc hons comp
+
+Skill: github
+Category: tools
+Weight: 1
+Matched alias: github
+Evidence: edin com/in/kamil-szynklewski-917786297 github com/kpsprojects profile reliable and ha
+
+Skill: health and safety
+Category: compliance
+Weight: 2
+Matched alias: safety
+Evidence: communication following procedures and safety rules working independently and in a te
+
+Skill: information security
+Category: security
+Weight: 2
+Matched alias: security operations
+Evidence: computer interaction data visualisation security operations incident management natural language pr
+
+Skill: machine learning
+Category: data_ai
+Weight: 2
+Matched alias: machine learning
+Evidence: methods interdisciplinary team project machine learning artificial intelligence for problem sol
+
+Skill: natural language processing
+Category: data_ai
+Weight: 2
+Matched alias: natural language processing
+Evidence: security operations incident management natural language processing capstone project bsc hons computing sci
+
+Skill: problem solving
+Category: general_professional
+Weight: 1
+Matched alias: problem solving
+Evidence: and reliability working under pressure problem solving and decision making customer service an
+
+Skill: procedures
+Category: business_support
+Weight: 1
+Matched alias: procedures
+Evidence: ility to manage time effectively follow procedures and handle responsibilities independent
+
+Skill: project management
+Category: general
+Weight: 1
+Matched alias: project management
+Evidence: ment software security malware analysis project management pirate studies hnd scqf level 8 softwar
+
+Skill: record keeping
+Category: business_support
+Weight: 2
+Matched alias: record keeping
+Evidence: rk skills route planning and navigation record keeping and accuracy handling deliveries and go
+
+Skill: scheduling
+Category: business_support
+Weight: 1
+Matched alias: schedule
+Evidence: while keeping to the original delivery schedule where possible communicated with custom
+
+Skill: security engineering
+Category: security
+Weight: 2
+Matched alias: security management
+Evidence: ce for problem solving information risk security management software security malware analysis proj
+
+Skill: software development
+Category: custom
+Weight: 2
+Matched alias: software development
+Evidence: agement pirate studies hnd scqf level 8 software development north east scotland college nescol 08/2
+
+Skill: statistics
+Category: general
+Weight: 1
+Matched alias: big data
+Evidence: /2022 05/2023 aberdeen relevant modules big data databases intro computer systems fundam
+
+Skill: troubleshoot
+Category: general
+Weight: 1
+Matched alias: troubleshooting
+Evidence: igital forensics professionalism ethics troubleshooting computing problems team working project
+

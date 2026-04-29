@@ -1,0 +1,58 @@
+CAPSTONE PROJECT COMBINED SUMMARY
+=================================
+
+Top Reed Extracted Skills
+-------------------------
+                    preferred_label  match_count
+                      communication            5
+Computer Assisted Language Learning            4
+           electronic communication            4
+                  SAP Data Services            3
+                         trademarks            2
+                   customer service            2
+                        lead others            2
+      design digital call to action            2
+                               plan            2
+                               dies            2
+
+Top ONS Table 3 Groups for 2025
+-------------------------------
+least_code                                     least_label  year    value
+     SCO07      Business Operations and Project Management  2025 0.808884
+     SCO33               Workplace and Professional Skills  2025 0.780456
+     SCO19 Information Technology and Cloud Infrastructure  2025 0.449526
+     SCO25      Sales and Customer Relationship Management  2025 0.442561
+     SCO22          Legal, Governance, Risk and Compliance  2025 0.437413
+     SCO16   Healthcare, Life Sciences and Related Systems  2025 0.425350
+     SCO15                          Finance and Accounting  2025 0.395408
+     SCO23        Manufacturing and Industrial Engineering  2025 0.394283
+     SCO18                                 Human Resources  2025 0.379402
+     SCO21       Learning, Training, and Education Systems  2025 0.337286
+
+Top ONS Table 2 Groups for 2025
+-------------------------------
+least_code                                     least_label middle_code                                        middle_label  year    value
+     SCO07      Business Operations and Project Management    SCO07.01 Business Operations, Process and Program Management  2025 0.832392
+     SCO33               Workplace and Professional Skills    SCO33.01         Professional and Interpersonal Competencies  2025 0.780456
+     SCO19 Information Technology and Cloud Infrastructure    SCO19.13              Information Technology and Programming  2025 0.437910
+     SCO15                          Finance and Accounting    SCO15.01     Accounting and Financial Trading and Investment  2025 0.379836
+     SCO16   Healthcare, Life Sciences and Related Systems    SCO16.05                        Healthcare and Life Sciences  2025 0.357717
+     SCO22          Legal, Governance, Risk and Compliance    SCO22.21                                     Risk and Safety  2025 0.298336
+     SCO23        Manufacturing and Industrial Engineering    SCO23.12                       Manufacturing and Fabrication  2025 0.293173
+     SCO25      Sales and Customer Relationship Management    SCO25.06                                 Marketing and Sales  2025 0.287069
+     SCO18                                 Human Resources    SCO18.04       Recruitment, Payroll and Employee Performance  2025 0.264938
+     SCO21       Learning, Training, and Education Systems    SCO21.17                              Education and Training  2025 0.250653
+
+Top GOV Job Categories
+----------------------
+                     category  job_count
+    Healthcare & Nursing Jobs      35198
+           Other/General Jobs      14127
+                Teaching Jobs       8823
+   Logistics & Warehouse Jobs       7868
+             Social Work Jobs       5692
+             Engineering Jobs       4889
+Domestic Help & Cleaning Jobs       4663
+  Hospitality & Catering Jobs       4259
+             Social Care Jobs       4145
+                   Admin Jobs       3573

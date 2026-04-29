@@ -1,0 +1,20 @@
+CV TO JOB MATCH ADVICE REPORT
+=============================
+
+Match score: 42.86%
+Matched skills: 3
+Missing skills: 5
+Extra skills: 25
+Matched weight total: 6.0
+Total job weight: 14.0
+
+Advice
+------
+- Overall, this CV is currently a weak match for the job based on the extracted skills.
+- The CV already aligns with the advert in areas such as: artificial intelligence, continuous learning, python.
+- The main missing skills identified were: analytics, consultancy skills, data wrangling, mathematics, predictive modelling.
+- These missing skills should be reviewed to decide whether they are genuinely absent, only implied, or simply not written clearly enough in the CV.
+- If the candidate has experience in these areas, the CV should be tailored to mention them more directly using clearer wording.
+- The CV also contains additional skills not directly requested in the advert, such as: communication, compliance, computer science, css, data cleaning.
+- These extra skills may still be useful, but they should not take attention away from the most relevant job requirements.
+- A stronger final version of the CV should emphasise evidence of the missing skills through work history, projects, tools used, and achievements.

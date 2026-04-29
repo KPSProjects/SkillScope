@@ -1,0 +1,63 @@
+CV TO JOB MATCH ADVICE REPORT
+=============================
+
+Job file: job_2.txt
+Match score: 20.0%
+Job skill count: 9
+CV skill count: 24
+Matched skills: 2
+Missing skills: 7
+Extra skills: 22
+Matched weight total: 3.0
+Total job weight: 15.0
+
+Matched skills
+--------------
+- artificial intelligence
+- communication
+
+Missing skills
+--------------
+- analytics
+- consultancy skills
+- continuous learning
+- data wrangling
+- mathematics
+- predictive modelling
+- python
+
+Extra CV skills
+---------------
+- apply information security policies
+- computer science
+- customer service
+- data visualisation
+- database
+- delivery operations
+- driving
+- driving licence
+- github
+- health and safety
+- information security
+- machine learning
+- natural language processing
+- problem solving
+- procedures
+- project management
+- record keeping
+- scheduling
+- security engineering
+- software development
+- statistics
+- troubleshoot
+
+Advice
+------
+- job_2.txt appears to be a weaker match. The CV contains some relevant skills, but several extracted job requirements are not clearly evidenced.
+- The strongest areas of alignment are: artificial intelligence, communication.
+- The main missing or weakly evidenced areas are: analytics, consultancy skills, continuous learning, data wrangling, mathematics, predictive modelling, python.
+- These should be checked manually against the CV. Some may be genuinely missing, while others may be present but not written clearly enough for the matcher to detect.
+- If the candidate has experience in these areas, the CV should be tailored by adding clearer evidence in the skills section, project descriptions, or work experience bullet points.
+- The CV also includes additional skills not directly extracted from this advert, such as: apply information security policies, computer science, customer service, data visualisation, database, delivery operations, driving.
+- These additional skills may still be valuable, but the CV should prioritise the skills that are directly requested by the advert.
+- Recommended action: only apply with this CV if the missing skills are not essential, or rewrite the CV substantially to evidence the missing requirements.

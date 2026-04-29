@@ -1,0 +1,49 @@
+{
+  "job_skill_count": 8,
+  "cv_skill_count": 28,
+  "matched_skill_count": 3,
+  "missing_skill_count": 5,
+  "extra_skill_count": 25,
+  "matched_weight_total": 6.0,
+  "job_weight_total": 14.0,
+  "match_score_percent": 42.86,
+  "matched_skills": [
+    "artificial intelligence",
+    "continuous learning",
+    "python"
+  ],
+  "missing_skills": [
+    "analytics",
+    "consultancy skills",
+    "data wrangling",
+    "mathematics",
+    "predictive modelling"
+  ],
+  "extra_skills": [
+    "communication",
+    "compliance",
+    "computer science",
+    "css",
+    "data cleaning",
+    "data engineering",
+    "data visualisation",
+    "documentation",
+    "git",
+    "github",
+    "html",
+    "information security",
+    "java",
+    "machine learning",
+    "mongodb",
+    "mysql",
+    "natural language processing",
+    "problem solving",
+    "project management",
+    "reporting",
+    "secure coding",
+    "sql",
+    "sqlite",
+    "stakeholder communication",
+    "troubleshooting"
+  ]
+}

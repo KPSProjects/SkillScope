@@ -1,0 +1,69 @@
+REED UK LARGE CLEANING PREVIEW
+==============================
+
+Rows before cleaning: 50000
+Rows after cleaning: 42793
+
+DUPLICATE REMOVAL
+-----------------
+Full duplicates removed: 5179
+Subset duplicates removed: 2028
+
+DATE RANGE
+----------
+Earliest post date: 2017-08-31 00:00:00
+Latest post date: 2018-03-13 00:00:00
+
+SAMPLE CLEANED ROWS
+-------------------
+
+ROW 1
+
+job_title:
+Commis Chef
+
+job_description:
+Apply now New opportunity not to be missed! Haulfryn Group has a fantastic opportunity for a Commis Chef to join a growing team at our friendly holiday resort, Finlake Holiday Resort. In return, we offer our Commis Chef a competitive salary depending on experience plus excellent benefits. Working at our prestigious and exclusive Holiday Park with owners who expect nothing but the best, we need an exceptional person to join our kitchen team. We're looking for an organised, enthusiastic and standards oriented food professional. Our ideal Commis Chef will have the following skills and experience: - NVQ level 2 in Food Preparation or equivalent - Experience in a similar position - Eye for quality standards - Enthusiasm for producing consistent, quality food - Ability organise unsupervised as p
+
+job_requirements:
+nan
+
+post_date:
+2018-03-12
+
+category:
+catering jobs
+
+ROW 2
+
+job_title:
+Corporate Legal Secretary
+
+job_description:
+Apply now This role requires an experienced secretary with at least 2 years secretarial experience. Legal experience is an advantage but not essential. Possessing excellent IT, administration, diary management and exceptional organisational skills. The candidate must be adaptable and flexible together with a professional, confident manner and strong communication skills. Must have advanced knowledge of word and excel.Responsibilities:• Legal secretarial to include audio and copy typing services, producing letters and documents through our case management system. • Opening new matters on the case management system ensuring all KYC requirements are met. • Raising interim and final invoices.• Monitor daily emails and post for the Partner, being proactive in responding to any urgent correspond
+
+job_requirements:
+nan
+
+post_date:
+2018-03-08
+
+category:
+law jobs
+
+ROW 3
+
+job_title:
+Warehouse Person
+
+job_description:
+Apply now Job Title: Warehouse personLocation: SohamRate of Pay: £16,000 to £17,000 per annumThe Role:My client has a warehouse in Soham. The supervisor is a relaxed, highly skilled warehouse person and has worked his way through the ranks to where he is today. The company are now looking for a warehouse person who would be able to support him, learn from him and maybe progress through the company (if you wanted!).The warehouse has just been rebuilt with 2 years growth plans in place although the depot supervisor is now looking at a 5 year growth plan! - would you like to be in at the start of this growth?Shifts are Monday to Friday 0800-1700 with Saturdays worked during peak (March till July).Requirements: Previous warehouse experience advantageous.Numerical and literacy skills essential 
+
+job_requirements:
+nan
+
+post_date:
+2018-02-27
+
+category:
+factory jobs

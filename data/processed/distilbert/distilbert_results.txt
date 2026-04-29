@@ -1,0 +1,13 @@
+DISTILBERT TOKEN CLASSIFICATION RESULTS
+=====================================
+
+Dataset preparation time: 2.96 seconds
+Training time: 455.04 seconds
+DEV evaluation time: 9.92 seconds
+TEST evaluation time: 11.00 seconds
+
+DEV RESULTS
+{'eval_loss': 0.30761435627937317, 'eval_precision': 0.10508083140877598, 'eval_recall': 0.11636828644501279, 'eval_f1': 0.1104368932038835, 'eval_accuracy': 0.8749346120313862, 'eval_runtime': 9.9177, 'eval_samples_per_second': 5.848, 'eval_steps_per_second': 1.512, 'epoch': 3.0}
+
+TEST RESULTS
+{'eval_loss': 0.26899585127830505, 'eval_precision': 0.1392136025504782, 'eval_recall': 0.14937286202964653, 'eval_f1': 0.14411441144114415, 'eval_accuracy': 0.891938712657838, 'eval_runtime': 10.9978, 'eval_samples_per_second': 5.91, 'eval_steps_per_second': 1.546, 'epoch': 3.0}

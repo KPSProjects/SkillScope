@@ -1,0 +1,226 @@
+SKILL MATCH EVIDENCE REPORT
+===========================
+
+JOB SKILL EVIDENCE
+------------------
+
+Skill: analytics
+Category: data
+Weight: 2
+Requirement type: required
+Confidence: 1.0
+Matched alias: analytics
+Evidence: Insight Analytics
+
+Skill: artificial intelligence
+Category: data_ai
+Weight: 2
+Requirement type: required
+Confidence: 1.0
+Matched alias: ai
+Evidence: AI & Data Essentials
+
+Skill: communication
+Category: general_professional
+Weight: 1
+Requirement type: required
+Confidence: 1.0
+Matched alias: conversation
+Evidence: Screening Interview: Our screening interview is personal and designed to be a two-way conversation, allowing us to get to know you and you to get to know us.
+
+Skill: consultancy skills
+Category: general_professional
+Weight: 1
+Requirement type: required
+Confidence: 1.0
+Matched alias: consultancy skills
+Evidence: Consultancy Skills
+
+Skill: continuous learning
+Category: general_professional
+Weight: 1
+Requirement type: required
+Confidence: 1.0
+Matched alias: willingness to learn
+Evidence: At Digital Futures, we look for potential, not perfection. Our application process has been designed to remove bias and give you the opportunity to showcase your current skills and your willingness to learn. The only entry requirement is having full right to work in the UK.
+
+Skill: data wrangling
+Category: data
+Weight: 2
+Requirement type: required
+Confidence: 1.0
+Matched alias: data wrangling
+Evidence: Programmatic Data Wrangling
+
+Skill: mathematics
+Category: data_ai
+Weight: 1
+Requirement type: required
+Confidence: 1.0
+Matched alias: maths
+Evidence: Skills Assessment: Your suitability for the programme will be assessed through a series of written, maths and Python coding challenges that will help us understand your strengths and learning potential.
+
+Skill: predictive modelling
+Category: data_ai
+Weight: 2
+Requirement type: required
+Confidence: 1.0
+Matched alias: predictive modelling
+Evidence: Predictive Modelling
+
+Skill: python
+Category: software_language
+Weight: 3
+Requirement type: required
+Confidence: 1.0
+Matched alias: python
+Evidence: Skills Assessment: Your suitability for the programme will be assessed through a series of written, maths and Python coding challenges that will help us understand your strengths and learning potential.
+
+
+CV SKILL EVIDENCE
+-----------------
+
+Skill: apply information security policies
+Category: devops
+Weight: 1
+Matched alias: data security
+Evidence: r systems fundamentals network concepts data security digital forensics professionalism ethic
+
+Skill: artificial intelligence
+Category: data_ai
+Weight: 2
+Matched alias: artificial intelligence
+Evidence: ciplinary team project machine learning artificial intelligence for problem solving information risk se
+
+Skill: communication
+Category: general_professional
+Weight: 1
+Matched alias: communication
+Evidence: nd decision making customer service and communication following procedures and safety rules w
+
+Skill: computer science
+Category: education
+Weight: 1
+Matched alias: computing science
+Evidence: ence full uk licence education bsc hons computing science software application developer senior h
+
+Skill: customer service
+Category: general_professional
+Weight: 2
+Matched alias: customer service
+Evidence: ual with experience in delivery driving customer service and fast-paced environments proven abil
+
+Skill: data visualisation
+Category: data
+Weight: 2
+Matched alias: data visualisation
+Evidence: vant modules human computer interaction data visualisation security operations incident management
+
+Skill: database
+Category: database
+Weight: 2
+Matched alias: database
+Evidence: /2023 05/2024 aberdeen relevant modules database design development professional practic
+
+Skill: delivery operations
+Category: logistics
+Weight: 2
+Matched alias: deliveries
+Evidence: the van in route order placing earlier deliveries for easier access and checking that all
+
+Skill: driving
+Category: logistics
+Weight: 2
+Matched alias: delivery driver
+Evidence: d service professional experience tesco delivery driver 2024 present aberdeen scotland operated
+
+Skill: driving licence
+Category: logistics
+Weight: 2
+Matched alias: driving licence
+Evidence: stem use quick learner with new systems driving licence full uk licence education bsc hons comp
+
+Skill: github
+Category: tools
+Weight: 1
+Matched alias: github
+Evidence: edin com/in/kamil-szynklewski-917786297 github com/kpsprojects profile reliable and ha
+
+Skill: health and safety
+Category: compliance
+Weight: 2
+Matched alias: safety
+Evidence: communication following procedures and safety rules working independently and in a te
+
+Skill: information security
+Category: security
+Weight: 2
+Matched alias: security operations
+Evidence: computer interaction data visualisation security operations incident management natural language pr
+
+Skill: machine learning
+Category: data_ai
+Weight: 2
+Matched alias: machine learning
+Evidence: methods interdisciplinary team project machine learning artificial intelligence for problem sol
+
+Skill: natural language processing
+Category: data_ai
+Weight: 2
+Matched alias: natural language processing
+Evidence: security operations incident management natural language processing capstone project bsc hons computing sci
+
+Skill: problem solving
+Category: general_professional
+Weight: 1
+Matched alias: problem solving
+Evidence: and reliability working under pressure problem solving and decision making customer service an
+
+Skill: procedures
+Category: business_support
+Weight: 1
+Matched alias: procedures
+Evidence: ility to manage time effectively follow procedures and handle responsibilities independent
+
+Skill: project management
+Category: general
+Weight: 1
+Matched alias: project management
+Evidence: ment software security malware analysis project management pirate studies hnd scqf level 8 softwar
+
+Skill: record keeping
+Category: business_support
+Weight: 2
+Matched alias: record keeping
+Evidence: rk skills route planning and navigation record keeping and accuracy handling deliveries and go
+
+Skill: scheduling
+Category: business_support
+Weight: 1
+Matched alias: schedule
+Evidence: while keeping to the original delivery schedule where possible communicated with custom
+
+Skill: security engineering
+Category: security
+Weight: 2
+Matched alias: security management
+Evidence: ce for problem solving information risk security management software security malware analysis proj
+
+Skill: software development
+Category: custom
+Weight: 2
+Matched alias: software development
+Evidence: agement pirate studies hnd scqf level 8 software development north east scotland college nescol 08/2
+
+Skill: statistics
+Category: general
+Weight: 1
+Matched alias: big data
+Evidence: /2022 05/2023 aberdeen relevant modules big data databases intro computer systems fundam
+
+Skill: troubleshoot
+Category: general
+Weight: 1
+Matched alias: troubleshooting
+Evidence: igital forensics professionalism ethics troubleshooting computing problems team working project
+

@@ -1,0 +1,43 @@
+SPACY SKILLSPAN PREPARATION SUMMARY
+==================================
+
+Train documents: 4800
+Train skill spans: 2221
+
+Dev documents: 3174
+Dev skill spans: 1070
+
+Test documents: 3569
+Test skill spans: 1090
+
+Sample training example
+-----------------------
+Text: Senior QA Engineer ( m/f/d ) <ORGANIZATION>
+
+Entities: []
+
+SPACY MODEL TRAINING SUMMARY
+============================
+
+Train documents loaded: 4800
+Dev documents loaded: 3174
+Train skill spans: 2221
+Dev skill spans: 1070
+Valid training examples used: 4800
+Valid dev examples used: 3174
+
+Loss by epoch
+-------------
+Epoch 1: 7102.8779
+Epoch 2: 3718.3413
+Epoch 3: 3451.1375
+Epoch 4: 3049.8425
+Epoch 5: 2778.6128
+Epoch 6: 2508.0388
+Epoch 7: 2261.4883
+Epoch 8: 2176.9277
+Epoch 9: 1974.6967
+Epoch 10: 1789.3252
+
+Model saved to:
+C:\Users\kamil\OneDrive\Desktop\Capstone\Capstone\Capstone_Program\data\processed\spacy\model_output

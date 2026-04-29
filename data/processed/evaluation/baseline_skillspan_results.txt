@@ -1,0 +1,8 @@
+BASELINE KEYWORD EVALUATION ON SKILLSPAN
+========================================
+
+Rows evaluated: 3569
+Tokens evaluated: 42786
+Precision: 0.4617
+Recall: 0.1334
+F1 Score: 0.2070

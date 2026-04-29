@@ -1,0 +1,39 @@
+MULTI JOB MATCH SUMMARY
+=======================
+
+1. job_1.txt
+   Match score: 72.73%
+   Job skill count: 7
+   CV skill count: 24
+   Matched skills: 4
+   Missing skills: 3
+   Extra skills: 20
+   Matched weight total: 3.2
+   Total job weight: 4.4
+   Top matched: customer service, delivery operations, driving, driving licence
+   Top missing: continuous learning, customer communication, warehouse operations
+
+2. job_2.txt
+   Match score: 20.0%
+   Job skill count: 9
+   CV skill count: 24
+   Matched skills: 2
+   Missing skills: 7
+   Extra skills: 22
+   Matched weight total: 3.0
+   Total job weight: 15.0
+   Top matched: artificial intelligence, communication
+   Top missing: analytics, consultancy skills, continuous learning, data wrangling, mathematics
+
+3. job_3.txt
+   Match score: 10.42%
+   Job skill count: 12
+   CV skill count: 24
+   Matched skills: 2
+   Missing skills: 10
+   Extra skills: 22
+   Matched weight total: 2.0
+   Total job weight: 19.2
+   Top matched: communication, procedures
+   Top missing: administration, compliance, customs, documentation, file archiving
+

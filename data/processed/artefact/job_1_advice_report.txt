@@ -1,0 +1,59 @@
+CV TO JOB MATCH ADVICE REPORT
+=============================
+
+Job file: job_1.txt
+Match score: 72.73%
+Job skill count: 7
+CV skill count: 24
+Matched skills: 4
+Missing skills: 3
+Extra skills: 20
+Matched weight total: 3.2
+Total job weight: 4.4
+
+Matched skills
+--------------
+- customer service
+- delivery operations
+- driving
+- driving licence
+
+Missing skills
+--------------
+- continuous learning
+- customer communication
+- warehouse operations
+
+Extra CV skills
+---------------
+- apply information security policies
+- artificial intelligence
+- communication
+- computer science
+- data visualisation
+- database
+- github
+- health and safety
+- information security
+- machine learning
+- natural language processing
+- problem solving
+- procedures
+- project management
+- record keeping
+- scheduling
+- security engineering
+- software development
+- statistics
+- troubleshoot
+
+Advice
+------
+- job_1.txt appears to be a moderate match. The CV has relevant overlap, but some important job requirements are still missing.
+- The strongest areas of alignment are: customer service, delivery operations, driving, driving licence.
+- The main missing or weakly evidenced areas are: continuous learning, customer communication, warehouse operations.
+- These should be checked manually against the CV. Some may be genuinely missing, while others may be present but not written clearly enough for the matcher to detect.
+- If the candidate has experience in these areas, the CV should be tailored by adding clearer evidence in the skills section, project descriptions, or work experience bullet points.
+- The CV also includes additional skills not directly extracted from this advert, such as: apply information security policies, artificial intelligence, communication, computer science, data visualisation, database, github.
+- These additional skills may still be valuable, but the CV should prioritise the skills that are directly requested by the advert.
+- Recommended action: tailor the CV before applying by adding stronger wording for the missing skills that the candidate genuinely has.

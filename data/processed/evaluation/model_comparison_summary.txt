@@ -1,0 +1,65 @@
+MODEL COMPARISON SUMMARY
+========================
+
+1. BASELINE V3
+--------------
+Type: ESCO-based keyword matching baseline
+Strengths:
+- very transparent
+- easy to explain and reproduce
+- useful for standardised taxonomy matching
+Weaknesses:
+- weak contextual understanding
+- can miss real skills if wording changes
+- earlier versions showed noisy behavioural phrases
+Project verdict:
+- good transparent baseline
+- not strong enough to act as the main learned extractor
+
+2. SPACY NER
+------------
+Type: supervised NER model trained on SkillSpan
+Test results:
+- test rows: 3569
+- gold skill spans: 1090
+- predicted skill spans: 646
+- exact span matches: 252
+- row precision: 0.7043
+- row recall: 0.5883
+- row F1: 0.6411
+- exact span precision: 0.3901
+- exact span recall: 0.2312
+- exact span F1: 0.2903
+Strengths:
+- learns beyond fixed keywords
+- clearly stronger than simple dictionary matching
+- produced some exact matches on unseen test rows
+Weaknesses:
+- misses many gold spans
+- boundary matching is still weak
+- fragment-based dataset likely limits performance
+Project verdict:
+- better extractor than the keyword baseline
+- useful learned comparison model
+- not perfect, especially at exact span boundaries
+
+3. DISTILBERT
+-------------
+Type: transformer-based token classification model
+Status:
+- add DistilBERT metrics here once confirmed from its evaluation output
+Expected strengths:
+- strongest contextual modelling
+- better handling of varied wording than baseline methods
+Expected weaknesses:
+- more complex pipeline
+- less transparent than keyword matching
+Project verdict:
+- likely strongest NLP model if evaluation supports it
+- needs confirmed metrics before final comparison claim
+
+CURRENT OVERALL CONCLUSION
+--------------------------
+Baseline v3 is the most transparent method and works as a defensible reference system.
+spaCy performs as a real learned extractor and is stronger than the baseline, but still has recall and span-boundary weaknesses.
+DistilBERT should be treated as the advanced comparison model once its final metrics are confirmed.
