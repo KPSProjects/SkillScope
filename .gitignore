@@ -1,0 +1,96 @@
+# =========================
+# Python cache / compiled files
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE / editor files
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs / temporary files
+# =========================
+*.log
+logs/
+tmp/
+temp/
+
+# =========================
+# Test / cache / coverage
+# =========================
+.coverage
+.pytest_cache/
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Secrets / local config
+# =========================
+.env
+.env.*
+secrets.json
+credentials.json
+*.key
+
+# =========================
+# Office temporary lock files
+# =========================
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# =========================
+# Large model checkpoints / heavy outputs
+# Ignore these unless you specifically want them on GitHub
+# =========================
+model_output/
+**/model_output/
+checkpoints/
+**/checkpoints/
+*.pt
+*.pth
+*.bin
+
+# DistilBERT / spaCy heavy model folders
+data/processed/distilbert/model_output/
+data/processed/distilbert/row_level_model_output/
+data/processed/distilbert/row_level_5epoch_model_output/
+data/processed/spacy/model/
+data/processed/spacy/output_model/
+
+# Raw data
+data/raw/
+data/interim/
+
+# =========================
+# Keep all useful processed/evaluation outputs
+# Do NOT ignore your report graphs/results folders
+# =========================
