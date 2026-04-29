@@ -69,7 +69,6 @@ credentials.json
 
 # =========================
 # Large model checkpoints / heavy outputs
-# Ignore these unless you specifically want them on GitHub
 # =========================
 model_output/
 **/model_output/
@@ -86,11 +85,112 @@ data/processed/distilbert/row_level_5epoch_model_output/
 data/processed/spacy/model/
 data/processed/spacy/output_model/
 
-# Raw data
+# =========================
+# Raw / interim data
+# =========================
 data/raw/
 data/interim/
 
 # =========================
-# Keep all useful processed/evaluation outputs
-# Do NOT ignore your report graphs/results folders
+# Ignore everything in processed by default
+# then re-allow only useful folders/files
 # =========================
+data/processed/**
+
+# =========================
+# Keep core processed folders
+# =========================
+!data/processed/
+!data/processed/artefact/
+!data/processed/distilbert/
+!data/processed/evaluation/
+!data/processed/evaluation/final_project_graphs/
+!data/processed/spacy/
+!data/processed/reed_large/
+!data/processed/reed_uk/
+!data/processed/gov/
+!data/processed/ons_skills/
+!data/processed/matching/
+!data/processed/combined/
+
+# =========================
+# Keep useful artefact outputs
+# =========================
+!data/processed/artefact/*.txt
+!data/processed/artefact/*.json
+!data/processed/artefact/*.csv
+
+# =========================
+# Keep useful DistilBERT outputs
+# =========================
+!data/processed/distilbert/*.txt
+!data/processed/distilbert/*.csv
+!data/processed/distilbert/*preview.txt
+
+# Ignore bulky weak-labelled jsonl files
+data/processed/distilbert/*.jsonl
+
+# =========================
+# Keep useful spaCy outputs
+# =========================
+!data/processed/spacy/*.txt
+!data/processed/spacy/*.csv
+!data/processed/spacy/*data.json
+
+# =========================
+# Keep useful evaluation outputs
+# =========================
+!data/processed/evaluation/*.txt
+!data/processed/evaluation/*.csv
+!data/processed/evaluation/*.png
+
+# Keep report-ready charts folder
+!data/processed/evaluation/final_project_graphs/
+!data/processed/evaluation/final_project_graphs/*.png
+!data/processed/evaluation/final_project_graphs/*.csv
+!data/processed/evaluation/final_project_graphs/*.txt
+
+# Keep charts subfolder if you want it
+!data/processed/evaluation/charts/
+!data/processed/evaluation/charts/*.png
+!data/processed/evaluation/charts/*.csv
+!data/processed/evaluation/charts/*.txt
+
+# Keep spacy evaluation subfolder
+!data/processed/evaluation/spacy/
+!data/processed/evaluation/spacy/*.txt
+!data/processed/evaluation/spacy/*.csv
+
+# =========================
+# Keep selected gov / reed / ons processed outputs
+# =========================
+!data/processed/gov/*.txt
+!data/processed/gov/*.csv
+!data/processed/gov/*.png
+
+!data/processed/reed_large/*.txt
+!data/processed/reed_large/*.csv
+!data/processed/reed_large/*.png
+
+!data/processed/reed_uk/*.txt
+!data/processed/reed_uk/*.csv
+!data/processed/reed_uk/*.png
+
+!data/processed/ons_skills/*.txt
+!data/processed/ons_skills/*.csv
+!data/processed/ons_skills/*.png
+
+!data/processed/matching/*.txt
+!data/processed/matching/*.csv
+!data/processed/matching/*.json
+
+!data/processed/combined/*.txt
+!data/processed/combined/*.csv
+
+# =========================
+# Ignore obvious clutter / debug files
+# =========================
+data/processed/distilbert/distilbert_debug_predictions.txt
+data/processed/distilbert/distilbert_pipeline_demo.txt
+data/processed/distilbert/distilbert_prep_preview.txt
+data/processed/distilbert/distilbert_esco_mapping_preview.txt
